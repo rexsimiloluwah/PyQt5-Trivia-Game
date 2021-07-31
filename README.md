@@ -25,6 +25,7 @@ $ source activate env/Scripts/activate
 ```
 - Install the required packages and dependencies 
 ```bash
+
 $ pip install -r requirements.txt
 ```
 - Run the application
@@ -35,3 +36,4 @@ $ python main.py
 ![Output](supertrivia.gif)
 
 ### To download the executable file and install on your systems 
+Navigate to the `/dist` directory to download the executable file.
