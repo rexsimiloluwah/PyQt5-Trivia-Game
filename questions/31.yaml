@@ -1,0 +1,590 @@
+easy:
+- correct_answer: Initial D
+  options:
+  - Wangan Midnight
+  - Kino no Tabi
+  - Cowboy Bebop
+  - Initial D
+  question: Which anime heavily features music from the genre "Eurobeat"?
+- correct_answer: Edward Elric
+  options:
+  - Alphonse Elric
+  - Van Hohenheim
+  - Izumi Curtis
+  - Edward Elric
+  question: Who was given the title "Full Metal" in the anime series "Full Metal Alchemist"?
+- correct_answer: Elric
+  options:
+  - Ellis
+  - Eliek
+  - Elwood
+  - Elric
+  question: What is the last name of Edward and Alphonse in the Fullmetal Alchemist
+    series.
+- correct_answer: Jewel Shards
+  options:
+  - Dragon Balls
+  - Rave Stones
+  - Sacred Stones
+  - Jewel Shards
+  question: In "Inuyasha", what are the heros are looking to collect?
+- correct_answer: Einstein
+  options:
+  - Edward
+  - Rocket
+  - Joel
+  - Einstein
+  question: What is the name of the corgi in Cowboy Bebop?
+- correct_answer: The Salamander
+  options:
+  - The Dragon Slayer
+  - The Dragon
+  - The Demon
+  - The Salamander
+  question: In "Fairy Tail", what is the nickname of Natsu Dragneel?
+- correct_answer: Manaphy
+  options:
+  - Ash
+  - May
+  - Phantom
+  - Manaphy
+  question: In the 9th Pokemon movie, who is the Prince of the Sea?
+- correct_answer: '10'
+  options:
+  - '11'
+  - '12'
+  - '9'
+  - '10'
+  question: What is the age of Ash Ketchum in Pokemon when he starts his journey?
+- correct_answer: Sailor Moon
+  options:
+  - Sailor Venus
+  - Sailor Mars
+  - Sailor Jupiter
+  - Sailor Moon
+  question: Who is the true moon princess in Sailor Moon?
+- correct_answer: Caterpie
+  options:
+  - Charmander
+  - Pikachu
+  - Pidgey
+  - Caterpie
+  question: What was Ash Ketchum's second Pokemon?
+- correct_answer: Naruto
+  options:
+  - Ten Ten
+  - Sasuke
+  - Kakashi
+  - Naruto
+  question: Who is the main character with yellow hair in the anime Naruto?
+- correct_answer: Mukuro Ikusaba
+  options:
+  - Ryota Mitarai
+  - Ultimate Imposter
+  - Komaru Naegi
+  - Mukuro Ikusaba
+  question: 'The name of Junko Enoshima''s imposter at the beginning of Danganronpa:
+    Trigger Happy Havoc is?'
+- correct_answer: Yukiteru Diary
+  options:
+  - Murder Diary
+  - 'Escape Diary '
+  - 'Justice Diary '
+  - Yukiteru Diary
+  question: In "Future Diary", what is the name of Yuno Gasai's Phone Diary?
+- correct_answer: Yukine
+  options:
+  - Karuha
+  - Mineha
+  - Mayu
+  - Yukine
+  question: In the anime Noragami who is one of the main protagonists?
+- correct_answer: Diane
+  options:
+  - Sakura
+  - Ayano
+  - Sheska
+  - Diane
+  question: In the anime Seven Deadly Sins what is the name of one of the sins?
+- correct_answer: Elizabeth Midford
+  options:
+  - Rachel Phantomhive
+  - Alexis Leon Midford
+  - Angelina Dalles
+  - Elizabeth Midford
+  question: In the anime Black Butler, who is betrothed to be married to Ciel Phantomhive?
+- correct_answer: God
+  options:
+  - Alien
+  - Time Traveler
+  - Esper
+  - God
+  question: In "The Melancholy of Haruhi Suzumiya" series, the SOS Brigade club leader
+    is unknowingly treated as a(n) __ by her peers.
+- correct_answer: 20,000
+  options:
+  - '128'
+  - 10,000
+  - 5,000
+  - 20,000
+  question: In "A Certain Scientific Railgun", how many "sisters" did Accelerator
+    have to kill to achieve the rumored level 6?
+- correct_answer: Being run over by a truck
+  options:
+  - Ate one too many chocobars
+  - Through a magical ritual
+  - When he put on the harmaki
+  - Being run over by a truck
+  question: What caused the titular mascot of Yo-Kai Watch, Jibanyan, to become a
+    yokai?
+- correct_answer: Osamu Tezuka
+  options:
+  - Mitsuteri Yokoyama
+  - Takao Saito
+  - Yoshihiro Tatsumi
+  - Osamu Tezuka
+  question: Who is the author of the manga series "Astro Boy"?
+- correct_answer: Visual novel
+  options:
+  - Anime
+  - Manga
+  - Light novel
+  - Visual novel
+  question: On what medium was "Clannad" first created?
+- correct_answer: Ame & Yuki
+  options:
+  - Hana & Yuki
+  - Ame & Hana
+  - Chuck & Anna
+  - Ame & Yuki
+  question: In the 2012 animated film "Wolf Children", what are the names of the wolf
+    children?
+- correct_answer: Elder Tale
+  options:
+  - Sword Art Online
+  - Tower Unite
+  - Yggdrasil
+  - Elder Tale
+  question: The characters of "Log Horizon" are trapped in what game?
+- correct_answer: Blank
+  options:
+  - Immanity
+  - Disboard
+  - Warbeasts
+  - Blank
+  question: The two main characters of "No Game No Life", Sora and Shiro, together
+    go by what name?
+- correct_answer: Envy
+  options:
+  - Pride
+  - Sloth
+  - Wrath
+  - Envy
+  question: Satella in "Re:Zero" is the witch of what?
+- correct_answer: Akira
+  options:
+  - Cowboy Bebop
+  - High School DxD
+  - Gurren Lagann
+  - Akira
+  question: Which of the following originated as a manga?
+- correct_answer: '2013'
+  options:
+  - '2014'
+  - '2012'
+  - '2015'
+  - '2013'
+  question: What year did "Attack on Titan" first air?
+- correct_answer: Bertolt Hoover
+  options:
+  - Reiner
+  - Eren
+  - Sasha
+  - Bertolt Hoover
+  question: Who is the colossal titan in "Attack On Titan"?
+- correct_answer: Reiner Braun
+  options:
+  - Armin Arlelt
+  - Mikasa Ackermann
+  - Eren Jaeger
+  - Reiner Braun
+  question: Who is the armored titan in "Attack On Titan"?
+- correct_answer: Tohru
+  options:
+  - Lucoa
+  - Kanna
+  - Elma
+  - Tohru
+  question: In Ms. Kobayashi's Dragon Maid, who is Kobayashi's maid?
+- correct_answer: Domino's
+  options:
+  - Papa John's
+  - Pizza Hut
+  - Sabarro's
+  - Domino's
+  question: In 2013, virtual pop-star Hatsune Miku had a sponsorship with which pizza
+    chain?
+- correct_answer: Gainax
+  options:
+  - Kyoto Animation
+  - Pierrot
+  - A-1 Pictures
+  - Gainax
+  question: What animation studio produced "Gurren Lagann"?
+- correct_answer: A Cruel Angel's Thesis
+  options:
+  - Stardust Crusaders
+  - Requiem for a Dream
+  - God Knows
+  - A Cruel Angel's Thesis
+  question: What is the theme song of "Neon Genesis Evangelion"?
+- correct_answer: Dirty Deeds Done Dirt Cheap
+  options:
+  - Filthy Acts Done For A Reasonable Price
+  - Civil War
+  - God Bless The USA
+  - Dirty Deeds Done Dirt Cheap
+  question: What is the name of Funny Valentine's stand in Jojo's Bizarre Adventure
+    Part 7, Steel Ball Run?
+- correct_answer: The Porygon Line
+  options:
+  - The Pikachu Line
+  - The Elekid Line
+  - The Magby Line
+  - The Porygon Line
+  question: Which Pok&eacute;mon and it's evolutions were banned from appearing in
+    a main role after the Episode 38 Incident?
+- correct_answer: Kaname Chidori
+  options:
+  - Teletha Testarossa
+  - Melissa Mao
+  - Kyoko Tokiwa
+  - Kaname Chidori
+  question: Who is the main heroine of the anime, Full Metal Panic!
+- correct_answer: Sen (Thousand)
+  options:
+  - Hyaku (Hundred)
+  - Ichiman (Ten thousand)
+  - Juu (Ten)
+  - Sen (Thousand)
+  question: What name is the main character Chihiro given in the 2001 movie "Spirited
+    Away"?
+- correct_answer: Vento Aureo
+  options:
+  - Vento Oreo
+  - Vanto Aureo
+  - Vento Eureo
+  - Vento Aureo
+  question: What is the name of JoJo's Bizarre Adventure Part 5?
+- correct_answer: Senju
+  options:
+  - Haruno
+  - Uzumaki
+  - Yamanaka
+  - Senju
+  question: In the Naruto manga, what is the last name of Tsunade?
+- correct_answer: Uraraka
+  options:
+  - Bakugo
+  - Deku
+  - 'Asui '
+  - Uraraka
+  question: In the anime "My Hero Academia", which character is shown with the ability
+    to manipulate gravity?
+hard: []
+medium:
+- correct_answer: Saitama
+  options:
+  - Genos
+  - Sonic
+  - King
+  - Saitama
+  question: What is the name of the main character of the anime "One-Punch Man"?
+- correct_answer: Macroons
+  options:
+  - Ice Cream
+  - Pizza
+  - Chips
+  - Macroons
+  question: In the anime, "Super Sonico", what is Super Sonico's favorite food?
+- correct_answer: AC/DC
+  options:
+  - Green Day
+  - Survivor
+  - Red Hot Chili Peppers
+  - AC/DC
+  question: Which band name isn't a Stand in "JoJo's Bizzare Adventure"?
+- correct_answer: '8'
+  options:
+  - '6'
+  - '4'
+  - '3'
+  - '8'
+  question: The manga JoJo's Bizarre Adventure is split into how many parts?
+- correct_answer: Josuke Higashikata
+  options:
+  - Yoshikage kira
+  - Koichi Hirose
+  - Joey JoJo
+  - Josuke Higashikata
+  question: The main protagonist of the fourth part of JoJo's Bizarre Adventure is
+    which of the following?
+- correct_answer: Kars
+  options:
+  - Erina Joestar
+  - Santana
+  - Wired Beck
+  - Kars
+  question: The main antagonist of the second part of JoJo's Bizarre Adventure is
+    which of the following?
+- correct_answer: Paranoid Android
+  options:
+  - Sadistic Summer
+  - Bittersweet Symphony
+  - Mad World
+  - Paranoid Android
+  question: What song plays in the ending credits of the anime "Ergo Proxy"?
+- correct_answer: '2015'
+  options:
+  - '2014'
+  - '2012'
+  - '2013'
+  - '2015'
+  question: What year did the anime "Himouto! Umaru-chan" air?
+- correct_answer: Dispell any esper or magical powers
+  options:
+  - Teleport
+  - Make telepathic communications
+  - Create electricity from his own body
+  - Dispell any esper or magical powers
+  question: In the "Toaru Majutsu no Index" anime, Touma Kamijou is a level 0 esper
+    that has the ability to do what?
+- correct_answer: Bones
+  options:
+  - A-1 Pictures
+  - Shaft
+  - Madhouse
+  - Bones
+  question: Which animation studio animated the 2016 anime "Mob Psycho 100"?
+- correct_answer: '2017'
+  options:
+  - '2018'
+  - '2019'
+  - '2020'
+  - '2017'
+  question: What year did "Attack on Titan" Season 2 begin airing?
+- correct_answer: Ainz Ooal Gown
+  options:
+  - Master
+  - Yggdrasil
+  - Kugane Maruyama
+  - Ainz Ooal Gown
+  question: The character Momonga from the "Overlord" series orders his servants to
+    call him by what name?
+- correct_answer: Another
+  options:
+  - Humanity Has Declined
+  - Assassination Classroom
+  - 'Danganronpa: The Animation'
+  - Another
+  question: Which anime did Seiji Kishi NOT direct?
+- correct_answer: Kill la Kill
+  options:
+  - Kiznaiver
+  - Inferno Cop
+  - Gurren Lagann
+  - Kill la Kill
+  question: What was studio Trigger's first original long-form animated series for
+    television?
+- correct_answer: Worst One
+  options:
+  - Another One
+  - Blazer
+  - Princess
+  - Worst One
+  question: Ikki Kurogane is known by what nickname at the beginning of "Chivalry
+    of a Failed Knight"?
+- correct_answer: Jupiter
+  options:
+  - Uranus
+  - Poseidon
+  - Pluton
+  - Jupiter
+  question: In "One Piece", which one of the following is NOT an Ancient Weapon?
+- correct_answer: Pearl Jam
+  options:
+  - Red Hot Chili Pepper
+  - Cream Starter
+  - Nut King Call
+  - Pearl Jam
+  question: Which of the stands from "JoJo's Bizarre Adventure" mimics the likeness
+    of a tomato?
+- correct_answer: Vectors
+  options:
+  - Velocity
+  - Quantums
+  - Wormholes
+  - Vectors
+  question: In "A Certain Magical Index," what is Accelerator able to control?
+- correct_answer: Poison Potato
+  options:
+  - Mors Oil
+  - Alpacookie
+  - Parmesansho Fruit
+  - Poison Potato
+  question: In "Toriko", which of the following foods is knowingly compatible with
+    Toriko?
+- correct_answer: Zebra
+  options:
+  - Coco
+  - Sunny
+  - Toriko
+  - Zebra
+  question: In "Toriko", which of the following Heavenly Kings has an enhanced sense
+    of Hearing?
+- correct_answer: Chris Niosi
+  options:
+  - Max Mittelman
+  - Kyle McCarley
+  - Casey Mongillo
+  - Chris Niosi
+  question: Who voices the character "Reigen"  in the English dub of "Mob Psycho 100"?
+- correct_answer: '1992'
+  options:
+  - '1989'
+  - '1990'
+  - '1994'
+  - '1992'
+  question: What year did "Bishoujo Senshi Sailor Moon" air in Japan?
+- correct_answer: "Naruto: Shipp\u016Bden"
+  options:
+  - One Piece
+  - Naruto
+  - Gurren Lagann
+  - "Naruto: Shipp\u016Bden"
+  question: '"Silhouette", a song performed by the group ''KANA-BOON'' is featured
+    as the sixteenth opening of which anime?'
+- correct_answer: Momo Deviluke
+  options:
+  - Yami (Golden Darkness)
+  - Haruna Sairenji
+  - Mea Kurosaki
+  - Momo Deviluke
+  question: 'In "To Love-Ru: Darkness", which of the girls attempt making a harem
+    for Rito Yuuki?'
+- correct_answer: '3'
+  options:
+  - '1'
+  - '2'
+  - '4'
+  - '3'
+  question: In the "To Love-Ru" series, how many Trans-weapons were created?
+- correct_answer: Nekomata
+  options:
+  - Kitsune
+  - Human
+  - Kappa
+  - Nekomata
+  question: In "Highschool DxD", Koneko Toujou is from what race?
+- correct_answer: She crawled into it's mouth as a baby.
+  options:
+  - She found it scary.
+  - She was badly injured from it.
+  - It is part Bug.
+  - She crawled into it's mouth as a baby.
+  question: In Pok&eacute;mon Chronicles, why was Misty afraid of Gyarados?
+- correct_answer: Shigeru Yahaba
+  options:
+  - Tadashi Yamaguchi
+  - Hisashi Kinoshita
+  - Kazuhito Narita
+  - Shigeru Yahaba
+  question: In Haikyuu!!, who is not a member of Karasuno VBC?
+- correct_answer: Charles
+  options:
+  - Bubsy
+  - Kero
+  - Usagi
+  - Charles
+  question: In the 2011 TV anime series, "THE iDOLM@STER", what was the name of Iori's
+    stuffed toy bunny?
+- correct_answer: Teal
+  options:
+  - Crimson
+  - Dark Brown
+  - Black
+  - Teal
+  question: In "Black Lagoon", what colour is Rock's tie?
+- correct_answer: Bones
+  options:
+  - Kyoto Animation
+  - xebec
+  - Production I.G
+  - Bones
+  question: Which studio animated Soul Eater?
+- correct_answer: Bones
+  options:
+  - Trigger
+  - Pierrot
+  - xebec
+  - Bones
+  question: What studio animated Fullmetal Alchemist?
+- correct_answer: Minalinsky
+  options:
+  - Stanoytchev
+  - Kuznetsov
+  - Aqours
+  - Minalinsky
+  question: 'In "Love Live: School Idol Project" what pseudonym does Kotori Minami
+    use in her job as a maid?'
+- correct_answer: Kujo
+  options:
+  - Cujoh
+  - Joestar
+  - Higashikata
+  - Kujo
+  question: 'In "JoJo''s Bizzare Adventure: Stardust Crusaders", what is the last
+    name of the protagonist Jotaro?'
+- correct_answer: Ancient Dragon World
+  options:
+  - Dragon World
+  - Star Dragon World
+  - Darkness Dragon World
+  - Ancient Dragon World
+  question: Which of these is not a world in the anime "Buddyfight"?
+- correct_answer: Luffy
+  options:
+  - Shanks
+  - Zoro
+  - Smoker
+  - Luffy
+  question: Who is the main character in One Piece?
+- correct_answer: Wolf Children
+  options:
+  - Princess Mononoke
+  - Spirited Away
+  - Kiki's Delivery Service
+  - Wolf Children
+  question: Which of the following films was NOT directed by Hayao Miyazaki?
+- correct_answer: Jean Pierre Polnareff
+  options:
+  - Noriaki Kakyoin
+  - Hol Horse
+  - Hermes Costello
+  - Jean Pierre Polnareff
+  question: Which JoJo's Bizarre Adventure character possesses the Stand named Silver
+    Chariot?
+- correct_answer: Jotaro Kujo
+  options:
+  - Joseph Joestar
+  - Jolyne Cujoh
+  - Koichi Hirose
+  - Jotaro Kujo
+  question: In JoJo's Bizarre Adventure, who says "Yare yare daze"?
+- correct_answer: Sunrise
+  options:
+  - Bones
+  - Madhouse
+  - Pierriot
+  - Sunrise
+  question: Which studio made Cowboy Bebop?

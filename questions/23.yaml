@@ -1,0 +1,878 @@
+easy:
+- correct_answer: Silver
+  options:
+  - Gold
+  - Juno
+  - Sword
+  - Silver
+  question: Which one of these was not a beach landing site in the Invasion of Normandy?
+- correct_answer: Tudor
+  options:
+  - York
+  - Stuart
+  - Lancaster
+  - Tudor
+  question: King Henry VIII was the second monarch of which European royal house?
+- correct_answer: Buffalo Bill
+  options:
+  - Billy the Kid
+  - Wild Bill Hickok
+  - Pawnee Bill
+  - Buffalo Bill
+  question: What was William Frederick Cody better known as?
+- correct_answer: Erwin Rommel
+  options:
+  - Ernst Busch
+  - Wolfram Freiherr von Richthofen
+  - Wilhelm List
+  - Erwin Rommel
+  question: Which German field marshal was known as the `Desert Fox`?
+- correct_answer: Alexander Flemming
+  options:
+  - Marie Curie
+  - Alfred Nobel
+  - Louis Pasteur
+  - Alexander Flemming
+  question: Who discovered Penicillin?
+- correct_answer: '6'
+  options:
+  - '1'
+  - '3'
+  - '7'
+  - '6'
+  question: How many manned moon landings have there been?
+- correct_answer: Karl Marx
+  options:
+  - Vladimir Lenin
+  - Joseph Stalin
+  - Vladimir Putin
+  - Karl Marx
+  question: The idea of Socialism was articulated and advanced by whom?
+- correct_answer: '1929'
+  options:
+  - '1932'
+  - '1930'
+  - '1925'
+  - '1929'
+  question: In what year did the Wall Street Crash take place?
+- correct_answer: Tog II
+  options:
+  - M4 Sherman
+  - Tiger H1
+  - T-34
+  - Tog II
+  question: Which one of these tanks was designed and operated by the United Kingdom?
+- correct_answer: Ethiopia
+  options:
+  - C&ocirc;te d&rsquo;Ivoire
+  - Congo
+  - Namibia
+  - Ethiopia
+  question: Which of the following African countries was most successful in resisting
+    colonization?
+- correct_answer: Illyrians
+  options:
+  - Dorians
+  - Achaeans
+  - Ionians
+  - Illyrians
+  question: Which of the following ancient peoples was NOT classified as Hellenic
+    (Greek)?
+- correct_answer: Marie Antoinette
+  options:
+  - Czar Nicholas II
+  - Elizabeth I
+  - Henry VIII
+  - Marie Antoinette
+  question: Which famous world leader is famed for the saying, "Let them eat cake",
+    yet is rumored that he/she never said it at all?
+- correct_answer: X
+  options:
+  - W
+  - U
+  - J
+  - X
+  question: 'The original Roman alphabet lacked the following letters EXCEPT:'
+- correct_answer: Switzerland
+  options:
+  - United Kingdom
+  - France
+  - Italy
+  - Switzerland
+  question: Which of these countries remained neutral during World War II?
+- correct_answer: '1991'
+  options:
+  - '1992'
+  - '1891'
+  - '1990'
+  - '1991'
+  question: The collapse of the Soviet Union took place in which year?
+- correct_answer: The Red Baron
+  options:
+  - The High Flying Ace
+  - 'The Blue Serpent '
+  - The Germany Gunner
+  - The Red Baron
+  question: What was Manfred von Richthofen's nickname?
+- correct_answer: Turkey
+  options:
+  - Syria
+  - Greece
+  - Egypt
+  - Turkey
+  question: Which modern day country is the region that was known as Phrygia in ancient
+    times?
+- correct_answer: George Washington
+  options:
+  - James Madison
+  - Thomas Jefferson
+  - James K. Polk
+  - George Washington
+  question: Who was the first president of the United States?
+- correct_answer: John Blunt
+  options:
+  - Daniel Defoe
+  - Robert Harley
+  - John Churchill
+  - John Blunt
+  question: In 1720, England was in massive debt, and became in involved in the South
+    Sea Bubble. Who was the main mastermind behind it?
+- correct_answer: Hideki Tojo
+  options:
+  - Michinomiya Hirohito
+  - Isoroku Yamamoto
+  - Fumimaro Konoe
+  - Hideki Tojo
+  question: Who was the Prime Minister of Japan when Japan declared war on the US?
+- correct_answer: John Macdonald
+  options:
+  - John Abbott
+  - Alexander Mackenzie
+  - Robert Borden
+  - John Macdonald
+  question: Who was the first prime minister of Canada?
+- correct_answer: Poison
+  options:
+  - Decapitation
+  - Firing squad
+  - 'Crucifixion '
+  - Poison
+  question: How was Socrates executed?
+- correct_answer: 6 years
+  options:
+  - 4 years
+  - 5 years
+  - 7 years
+  - 6 years
+  question: How long did World War II last?
+- correct_answer: Poland
+  options:
+  - Czechoslovakia
+  - Austria
+  - Hungary
+  - Poland
+  question: In 1939, Britain and France declared war on Germany after it invaded which
+    country?
+- correct_answer: Andrew Jackson
+  options:
+  - Harry S. Truman
+  - Martin Van Buren
+  - John Quincy Adams
+  - Andrew Jackson
+  question: The "Trail of Tears" was a result of which United States President's Indian
+    Removal Policy?
+- correct_answer: The Polish President
+  options:
+  - Pope John Paul II
+  - Bang-Ding Ow
+  - Albert Putin
+  - The Polish President
+  question: Who was among those killed in the 2010 Smolensk, Russia plane crash tragedy?
+- correct_answer: Republican
+  options:
+  - Democrat
+  - Independent
+  - Whig
+  - Republican
+  question: To what political party did Abraham Lincoln belong when elected POTUS?
+- correct_answer: Poland and Lithuania
+  options:
+  - Hutu and Rwanda
+  - North Korea and South Korea
+  - Bangladesh and Bhutan
+  - Poland and Lithuania
+  question: These two countries held a commonwealth from the 16th to 18th century.
+- correct_answer: '1914'
+  options:
+  - '1905'
+  - '1919'
+  - '1925'
+  - '1914'
+  question: What year did World War I begin?
+- correct_answer: '56'
+  options:
+  - '43'
+  - '65'
+  - '47'
+  - '56'
+  question: How old was Adolf Hitler when he died?
+- correct_answer: Afghanistan
+  options:
+  - China
+  - Iraq
+  - Russia
+  - Afghanistan
+  question: Which modern country is known as "The Graveyard of Empires"?
+- correct_answer: Georgia
+  options:
+  - Russia
+  - Germany
+  - Poland
+  - Georgia
+  question: Which country was Josef Stalin born in?
+- correct_answer: Portugal
+  options:
+  - Spain
+  - The Netherlands
+  - France
+  - Portugal
+  question: Which of the following was Brazil was a former colony under?
+- correct_answer: Constantinople
+  options:
+  - Rome
+  - Hamburg
+  - Athens
+  - Constantinople
+  question: In 1453, which important city fell?
+- correct_answer: Pudding Lane
+  options:
+  - Baker Street
+  - Houses of Parliament
+  - St Paul's Cathedral
+  - Pudding Lane
+  question: On what street did the 1666 Great Fire of London start?
+- correct_answer: '1721'
+  options:
+  - '1726'
+  - '1727'
+  - '1724'
+  - '1721'
+  question: In what year did the Great Northern War, between Russia and Sweden, end?
+- correct_answer: The signing of the Declaration of Independence
+  options:
+  - The anniversary of the Battle of Gettysburg
+  - The crossing of the Delaware River
+  - The ratification of the Constitution
+  - The signing of the Declaration of Independence
+  question: What does the United States of America celebrate during the 4th of July?
+- correct_answer: Paul Revere
+  options:
+  - Thomas Paine
+  - Henry Longfellow
+  - Nathan Hale
+  - Paul Revere
+  question: Who rode on horseback to warn the Minutemen that the British were coming
+    during the U.S. Revolutionary War?
+- correct_answer: Harper's Ferry
+  options:
+  - Richmond
+  - Harrisonburg
+  - Martinsburg
+  - Harper's Ferry
+  question: Abolitionist John Brown raided the arsenal in which Virginia Town?
+- correct_answer: Hannibal
+  options:
+  - Garmanicus
+  - Alexander the Great
+  - Tiberius
+  - Hannibal
+  question: Which famous military commander marched an army, which included war elephants,
+    over the Alps during the Second Punic War?
+hard:
+- correct_answer: Socrates
+  options:
+  - Aristotle
+  - Plato
+  - Pythagoras
+  - Socrates
+  question: With which Greek philosopher would you associate the phrase, "I know that
+    I know nothing"?
+- correct_answer: '1789'
+  options:
+  - '1823'
+  - '1756'
+  - '1799'
+  - '1789'
+  question: When did the French Revolution begin?
+- correct_answer: Romantic
+  options:
+  - Classic
+  - Baroque
+  - Renaissance
+  - Romantic
+  question: Pianist Fr&eacute;d&eacute;ric Chopin was a composer of which musical
+    era?
+- correct_answer: John and Mary
+  options:
+  - Joseph and Catherine
+  - William and Elizabeth
+  - George and Anne
+  - John and Mary
+  question: In the year 1900, what were the most popular first names given to boy
+    and girl babies born in the United States?
+- correct_answer: '1808'
+  options:
+  - '1806'
+  - '1810'
+  - '1809'
+  - '1808'
+  question: When did Spanish Peninsular War start?
+- correct_answer: '1867'
+  options:
+  - '1798'
+  - '1859'
+  - '1668'
+  - '1867'
+  question: What year was Canada founded in?
+- correct_answer: '35'
+  options:
+  - '62'
+  - '87'
+  - '73'
+  - '35'
+  question: What age was King Henry V when he died?
+- correct_answer: October 27, 1980
+  options:
+  - November 21, 1969
+  - October 29, 1969
+  - December 9, 1991
+  - October 27, 1980
+  question: On which day did ARPANET suffer a 4 hour long network crash?
+- correct_answer: Post cards
+  options:
+  - Alcohol
+  - Cigarettes
+  - 'Sodas '
+  - Post cards
+  question: What did the first vending machines in the early 1880's dispense?
+- correct_answer: Richard Neville
+  options:
+  - Richard III
+  - Henry V
+  - Thomas Warwick
+  - Richard Neville
+  question: During the Wars of the Roses (1455 - 1487) which Englishman was dubbed
+    "the Kingmaker"?
+- correct_answer: January 30, 1933
+  options:
+  - September 1, 1939
+  - February 27, 1933
+  - October 6, 1939
+  - January 30, 1933
+  question: When was Adolf Hitler appointed as Chancellor of Germany?
+- correct_answer: Philip V
+  options:
+  - Charles V
+  - Philip II
+  - Francis Joseph
+  - Philip V
+  question: Which one of these rulers did not belong to the Habsburg dynasty?
+- correct_answer: 'Hispania '
+  options:
+  - Italia
+  - Gallia
+  - Asia
+  - 'Hispania '
+  question: During the Roman Triumvirate of 42 BCE, what region of the Roman Republic
+    was given to Lepidus?
+- correct_answer: Gjergj Kastrioti
+  options:
+  - Diturak Zhulati
+  - Iskander Bejko
+  - Mirash Krasniki
+  - Gjergj Kastrioti
+  question: What was the real name of the Albanian national leader Skanderbeg?
+- correct_answer: '1776'
+  options:
+  - '1775'
+  - '1774'
+  - '1777'
+  - '1776'
+  question: What year was the United States Declaration of Independence signed?
+- correct_answer: March 11th, 1990
+  options:
+  - December 25th, 1991
+  - December 5th, 1991
+  - April 20th, 1989
+  - March 11th, 1990
+  question: When did Lithuania declare independence from the Soviet Union?
+- correct_answer: Dead Sea Scrolls
+  options:
+  - The Blackbeard Chest
+  - Sheep
+  - The First Oaxaca Cave Sleeper
+  - Dead Sea Scrolls
+  question: What was found in 1946 by two young shepards near a cave?
+- correct_answer: '1066'
+  options:
+  - '911'
+  - '1204'
+  - '1420'
+  - '1066'
+  question: The Battle of Hastings was fought in which year?
+- correct_answer: 753 BCE
+  options:
+  - 902 BCE
+  - 524 BCE
+  - 697 BCE
+  - 753 BCE
+  question: When was the city of Rome, Italy founded?
+- correct_answer: 350,000
+  options:
+  - 225,000
+  - 100,000
+  - 500,000
+  - 350,000
+  question: How many women joined the United States Armed Services during World War
+    II?
+- correct_answer: 63 Days
+  options:
+  - 20 Days
+  - 55 Days
+  - 224 Days
+  - 63 Days
+  question: How long did the Warsaw Uprising during World War II last?
+- correct_answer: Genuine universal suffrage
+  options:
+  - Gaining Independence
+  - Go back under British Rule
+  - Lower taxes
+  - Genuine universal suffrage
+  question: What was the aim of the "Umbrella Revolution" in Hong Kong in 2014?
+- correct_answer: January 1944
+  options:
+  - September 1943
+  - November 1943
+  - March 1944
+  - January 1944
+  question: When was the "Siege of Leningrad" lifted during World War II?
+- correct_answer: Vistula-Oder Offensive
+  options:
+  - Crimean Offensive
+  - Leningrad-Novgorod Offensive
+  - Operation Bagration
+  - Vistula-Oder Offensive
+  question: Which of the following was not one of Joseph Stalin's ten blows during
+    World War II?
+- correct_answer: Royal Mail Ship
+  options:
+  - Royal Majesty Service
+  - 'Regular Maritime Schedule '
+  - Regulated Maelstrom Sensor
+  - Royal Mail Ship
+  question: What did the abbreviation "RMS" stand for in the RMS Titanic in 1912?
+- correct_answer: Hong Kong
+  options:
+  - India
+  - Australia
+  - Ireland
+  - Hong Kong
+  question: What was the last colony the UK ceded marking the end of the British Empire?
+- correct_answer: Making jams and jellies
+  options:
+  - Teaching parrots to talk
+  - Cheating at card games
+  - Digging graves
+  - Making jams and jellies
+  question: In addition to his career as an astrologer and "prophet", Nostradamus
+    published a 1555 treatise that included a section on what?
+- correct_answer: March 25th
+  options:
+  - June 1st
+  - September 25th
+  - December 1st
+  - March 25th
+  question: Before the American colonies switched to the Gregorian calendar in 1752,
+    on what date did their new year start?
+- correct_answer: Henry II
+  options:
+  - Richard I
+  - Henry I
+  - Henry V
+  - Henry II
+  question: Which English king was married to Eleanor of Aquitaine?
+- correct_answer: France and Brazil
+  options:
+  - Canada and Norway
+  - Australia and New Zealand
+  - United States and England
+  - France and Brazil
+  question: Which countries participated in the Lobster War?
+- correct_answer: Gus Grissom
+  options:
+  - Vladimir Komarov
+  - Charles Conrad
+  - Yuri Gagarin
+  - Gus Grissom
+  question: Who was the first man to travel into outer space twice?
+- correct_answer: Charles Guiteau
+  options:
+  - Sirhan Sirhan
+  - Leon Czolgosz
+  - John Wilkes Booth
+  - Charles Guiteau
+  question: Who assassinated President James A. Garfield?
+- correct_answer: England, Germany, Russia
+  options:
+  - France, Russia, Germany
+  - Serbia, Russia, Croatia
+  - Germany, Spain, Austria
+  - England, Germany, Russia
+  question: During World War I, which nation's monarchs were blood related?
+- correct_answer: George Washington
+  options:
+  - Abraham Lincoln
+  - Thomas Jefferson
+  - James Monroe
+  - George Washington
+  question: Which U.S. president was said to have been too honest to lie to his father
+    about chopping down a cherry tree?
+- correct_answer: Threw them out of a window
+  options:
+  - Insulted their mothers
+  - Locked them in stockades
+  - Hung them.
+  - Threw them out of a window
+  question: The Bohemian Revolt (1618-1620) started after Protestants in Prague did
+    what to their Catholic Lords Regents?
+- correct_answer: Mamluk
+  options:
+  - Ayyubid
+  - Ummayyad
+  - Seljuq
+  - Mamluk
+  question: After the 1516 Battle of Marj Dabiq, the Ottoman Empire took control of
+    Jerusalem from which sultanate?
+- correct_answer: Alexander VI
+  options:
+  - Innocent V
+  - Urban II
+  - Pius III
+  - Alexander VI
+  question: The son of which pope supposedly held a lecherous f&ecirc;te involving
+    50 courtesans in the papal palace?
+- correct_answer: Anselm of Canterbury
+  options:
+  - Ren&eacute; Descartes
+  - Immanuel Kant
+  - Aristotle
+  - Anselm of Canterbury
+  question: The ontological argument for the proof of God's existence is first attributed
+    to whom?
+- correct_answer: DD-445
+  options:
+  - DD-992
+  - DD-444
+  - DD-446
+  - DD-445
+  question: Which is the hull NO. of the Fletcher class destroyer Fletcher?
+- correct_answer: Enola Gay
+  options:
+  - Necessary Evil
+  - The Great Artiste
+  - Full House
+  - Enola Gay
+  question: What is the name of the Boeing B-29 that dropped the 'Little Boy' atomic
+    bomb on Hiroshima?
+medium:
+- correct_answer: Invasion of Poland (1939)
+  options:
+  - Invasion of Russia (1942)
+  - Battle of Britain (1940)
+  - Invasion of Normandy (1944)
+  - Invasion of Poland (1939)
+  question: What event marked the start of World War II?
+- correct_answer: Polio
+  options:
+  - Cancer
+  - Meningitis
+  - HIV
+  - Polio
+  question: 'What disease crippled President Franklin D. Roosevelt and led him to
+    help the nation find a cure? '
+- correct_answer: Brazil
+  options:
+  - India
+  - Mozambique
+  - Madagascar
+  - Brazil
+  question: Which of these countries was sea charted in 1500 by the Portuguese maritime
+    explorations?
+- correct_answer: Typhoons
+  options:
+  - Tornados
+  - Economic depression
+  - Samurai
+  - Typhoons
+  question: During the Mongolian invasions of Japan, what were the Mongol boats mostly
+    stopped by?
+- correct_answer: 100 Megatons
+  options:
+  - 200 Megatons
+  - 75 Megatons
+  - 150 Megatons
+  - 100 Megatons
+  question: The Tsar Bomba, the most powerful nuclear bomb ever tested, had a yield
+    of 50 megatons but theoretically had a maximum yield of how much?
+- correct_answer: '1923'
+  options:
+  - '1903'
+  - '1913'
+  - '1933'
+  - '1923'
+  question: In what year was the famous 45 foot tall Hollywood sign first erected?
+- correct_answer: Catherine of Aragon
+  options:
+  - Anne Boleyn
+  - Jane Seymour
+  - Catherine Parr
+  - Catherine of Aragon
+  question: Which of his six wives was Henry VIII married to the longest?
+- correct_answer: Ukraine
+  options:
+  - Belarus
+  - Latvia
+  - Lithuania
+  - Ukraine
+  question: Which country had an "Orange Revolution" between 2004 and 2005?
+- correct_answer: "Zhai (\u7FDF)"
+  options:
+  - "Zhao (\u8D99)"
+  - "Qin (\u79E6)"
+  - "Qi (\u9F4A)"
+  - "Zhai (\u7FDF)"
+  question: 'All of the following are names of the Seven Warring States EXCEPT:'
+- correct_answer: Shamshi-Adad III
+  options:
+  - Shalmaneser V
+  - Esharhaddon
+  - Ashur-nasir-pal II
+  - Shamshi-Adad III
+  question: Which of the following Assyrian kings did NOT rule during the Neo-Assyrian
+    Empire?
+- correct_answer: German
+  options:
+  - American
+  - British
+  - Polish
+  - German
+  question: The creator of the Enigma Cypher and Machine was of what nationality?
+- correct_answer: November 4, 1952
+  options:
+  - July 26, 1908
+  - ' July 1, 1973'
+  - ' November 25, 2002'
+  - November 4, 1952
+  question: When was the United States National Security Agency established?
+- correct_answer: '1415'
+  options:
+  - '1463'
+  - '1401'
+  - '1422'
+  - '1415'
+  question: What year did the Battle of Agincourt take place?
+- correct_answer: Spain
+  options:
+  - France
+  - England
+  - Portugal
+  - Spain
+  question: Against which country did the Dutch Republic fight the Eighty Years' War?
+- correct_answer: Kurt Knispel
+  options:
+  - Michael Wittmann
+  - Walter Kniep
+  - Otto Carius
+  - Kurt Knispel
+  question: Which WWII tank ace is credited with having destroyed the most tanks?
+- correct_answer: Portugal
+  options:
+  - Spain
+  - Sweden
+  - Netherlands
+  - Portugal
+  question: Which Nation DID NOT have a Colony in Modern-day America?
+- correct_answer: '1905'
+  options:
+  - '1925'
+  - '1814'
+  - '1834'
+  - '1905'
+  question: When did Norway become free from Sweden?
+- correct_answer: The Apology
+  options:
+  - The Euthyphro
+  - The Laws
+  - The Republic
+  - The Apology
+  question: 'In what dialogue did Socrates defend himself to the court of Athens? '
+- correct_answer: December 8, 1941
+  options:
+  - June 6, 1944
+  - June 22, 1941
+  - September 1, 1939
+  - December 8, 1941
+  question: When did the United States formally declare war on Japan, entering World
+    War II?
+- correct_answer: Martin Van Buren
+  options:
+  - John Adams
+  - George Washington
+  - 'James Monroe '
+  - Martin Van Buren
+  question: Who was the first president born in the independent United States?
+- correct_answer: '1918'
+  options:
+  - '1914'
+  - '1916'
+  - '1912'
+  - '1918'
+  question: In what year did the First World War end?
+- correct_answer: Harry S. Truman
+  options:
+  - Dwight D. Eisenhower
+  - Franklin D. Roosevelt
+  - Herbert Hoover
+  - Harry S. Truman
+  question: Which U.S. president took part in the Potsdam Conference, where the Allies
+    reached a peace settlement with Germany?
+- correct_answer: 882 ft | 268.8 m
+  options:
+  - 759 ft | 231.3 m
+  - 1042 ft | 317.6 m
+  - 825 ft | 251.5 m
+  - 882 ft | 268.8 m
+  question: What was the total length of the Titanic?
+- correct_answer: Josip Broz Tito
+  options:
+  - Karadjordje Petrovic
+  - Milos Obilic
+  - Aleskandar Petrovic
+  - Josip Broz Tito
+  question: Who was the leader of the Communist Party of Yugoslavia ?
+- correct_answer: '1901'
+  options:
+  - '1910'
+  - '1899'
+  - '1911'
+  - '1901'
+  question: What year did Australia become a federation?
+- correct_answer: '1997'
+  options:
+  - '1999'
+  - '1841'
+  - '1900'
+  - '1997'
+  question: When did the British hand-over sovereignty of Hong Kong back to China?
+- correct_answer: '1989'
+  options:
+  - '1987'
+  - '1991'
+  - '1993'
+  - '1989'
+  question: In what year did the Berlin Wall fall?
+- correct_answer: Soviet Union
+  options:
+  - Italy
+  - Germany
+  - Japan
+  - Soviet Union
+  question: Which country was an allied power in World War II?
+- correct_answer: USS Hornet
+  options:
+  - USS Enterprise
+  - USS Lexington
+  - USS Saratoga
+  - USS Hornet
+  question: On which aircraft carrier did the Doolitte Raid launch from on April 18,
+    1942 during World War II?
+- correct_answer: Operation Barbarossa
+  options:
+  - Operation Kaiserschlact
+  - Operation Unthinkable
+  - Operation Molotov
+  - Operation Barbarossa
+  question: What was the code name for the German invasion of the Soviet Union in
+    WW2?
+- correct_answer: '1869'
+  options:
+  - '1859'
+  - '1860'
+  - '1850'
+  - '1869'
+  question: When did construction of the Suez Canal finish?
+- correct_answer: Pope Leo III
+  options:
+  - Pope Urban IV
+  - Pope Stephen V
+  - Pope Valentine
+  - Pope Leo III
+  question: Who crowned Charlemagne as Holy Roman Emperor on Christmas Day in 800?
+- correct_answer: George H. W. Bush
+  options:
+  - Richard Nixon
+  - 'George W. Bush '
+  - Ronald Regan
+  - George H. W. Bush
+  question: Which U.S. President was in office when the Gulf War began?
+- correct_answer: Renault FT
+  options:
+  - M4 Sherman
+  - ' Panzer IV'
+  - 'Cromwell '
+  - Renault FT
+  question: Which of these 1900s tanks were designed and built BEFORE the others?
+- correct_answer: Operation Downfall
+  options:
+  - Operation Boarding Party
+  - Operation Ironclad
+  - Operation Aflame
+  - Operation Downfall
+  question: What was the name of the planned invasion of Japan towards the end of
+    World War II?
+- correct_answer: Vespasian
+  options:
+  - Vitellius
+  - Otho
+  - Galba
+  - Vespasian
+  question: Who was the last Roman emperor in the Year of Four Emperors (69 AD)?
+- correct_answer: Siege of Petersburg
+  options:
+  - Siege of Vicksburg
+  - Antietam Campaign
+  - Gettysburg Campagin
+  - Siege of Petersburg
+  question: During which American Civil War campaign did Union troops dig a tunnel
+    beneath Confederate troops to detonate explosives underneath them?
+- correct_answer: Jimmy Carter
+  options:
+  - Ronald Reagan
+  - Lydon B. Johnson
+  - Gerald Ford
+  - Jimmy Carter
+  question: Which U.S. President was famously 'attacked' by a swimming rabbit?
+- correct_answer: Woodrow Wilson
+  options:
+  - Franklin Delano Roosevelt
+  - Herbert Hoover
+  - Theodore Roosevelt
+  - Woodrow Wilson
+  question: The Panama Canal was finished under the administration of which U.S. president?
+- correct_answer: Fainting room
+  options:
+  - Turkish bath
+  - Kennel
+  - Squash court
+  - Fainting room
+  question: Which of these facilities was not present on the Titanic?

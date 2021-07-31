@@ -1,0 +1,292 @@
+easy: []
+hard: []
+medium:
+- correct_answer: Windows XP
+  options:
+  - Windows 2000
+  - Windows 7
+  - Windows 95
+  - Windows XP
+  question: Whistler was the codename of this Microsoft Operating System.
+- correct_answer: Year
+  options:
+  - Four Years
+  - Two Years
+  - Eight Years
+  - Year
+  question: Moore's law originally stated that the number of transistors on a microprocessor
+    chip would double every...
+- correct_answer: Active Directory
+  options:
+  - Alternative Drive
+  - Automated Database
+  - Active Department
+  - Active Directory
+  question: 'What does AD stand for in relation to Windows Operating Systems? '
+- correct_answer: '2000'
+  options:
+  - '1998'
+  - '1999'
+  - '2001'
+  - '2000'
+  question: When was the programming language "C#" released?
+- correct_answer: Think
+  options:
+  - Click
+  - Logic
+  - Pixel
+  - Think
+  question: What five letter word is the motto of the IBM Computer company?
+- correct_answer: C#
+  options:
+  - Java
+  - C++
+  - Objective-C
+  - C#
+  question: Which of the following languages is used as a scripting language in the
+    Unity 3D game engine?
+- correct_answer: Inkscape
+  options:
+  - Paint.NET
+  - GIMP
+  - Adobe Photoshop
+  - Inkscape
+  question: 'All of the following programs are classified as raster graphics editors
+    EXCEPT:'
+- correct_answer: Taiwan
+  options:
+  - United States
+  - Germany
+  - China (People's Republic of)
+  - Taiwan
+  question: The computer OEM manufacturer Clevo, known for its Sager notebook line,
+    is based in which country?
+- correct_answer: Santa Clara
+  options:
+  - Palo Alto
+  - Cupertino
+  - Mountain View
+  - Santa Clara
+  question: Nvidia's headquarters are based in which Silicon Valley city?
+- correct_answer: The Onion Router
+  options:
+  - The Only Router
+  - The Orange Router
+  - The Ominous Router
+  - The Onion Router
+  question: What did the name of the Tor Anonymity Network orignially stand for?
+- correct_answer: Intel 4004
+  options:
+  - Intel 486SX
+  - TMS 1000
+  - AMD AM386
+  - Intel 4004
+  question: What was the first commerically available computer processor?
+- correct_answer: Jelly Bean
+  options:
+  - Lollipop
+  - Nutella
+  - Froyo
+  - Jelly Bean
+  question: What was the name given to Android 4.3?
+- correct_answer: Clipper Chip
+  options:
+  - Enigma Machine
+  - Skipjack
+  - Nautilus
+  - Clipper Chip
+  question: Which of these is the name for the failed key escrow device introduced
+    by the National Security Agency in 1993?
+- correct_answer: December 20, 1990
+  options:
+  - December 17, 1996
+  - November 12, 1990
+  - November 24, 1995
+  - December 20, 1990
+  question: On which day did the World Wide Web go online?
+- correct_answer: Content Delivery Network
+  options:
+  - Content Distribution Network
+  - Computational Data Network
+  - Compressed Data Network
+  - Content Delivery Network
+  question: What does the acronym CDN stand for in terms of networking?
+- correct_answer: '10'
+  options:
+  - '12'
+  - '8'
+  - '4'
+  - '10'
+  question: How many cores does the Intel i7-6950X have?
+- correct_answer: Luna
+  options:
+  - Neptune
+  - Whistler
+  - Bliss
+  - Luna
+  question: What is the name of the default theme that is installed with Windows XP?
+- correct_answer: <marquee></marquee>
+  options:
+  - <scroll></scroll>
+  - <move></move>
+  - <slide></slide>
+  - <marquee></marquee>
+  question: In HTML, which non-standard tag used to be be used to make elements scroll
+    across the viewport?
+- correct_answer: center
+  options:
+  - static
+  - absolute
+  - relative
+  - center
+  question: In CSS, which of these values CANNOT be used with the "position" property?
+- correct_answer: '?:'
+  options:
+  - ??
+  - if then
+  - '?'
+  - '?:'
+  question: In programming, the ternary operator is mostly defined with what symbol(s)?
+- correct_answer: 10 Gb/s
+  options:
+  - 5 Gb/s
+  - 8 Gb/s
+  - 1 Gb/s
+  - 10 Gb/s
+  question: How fast is USB 3.1 Gen 2 theoretically?
+- correct_answer: Liquid Crystal Display
+  options:
+  - Language Control Design
+  - Last Common Difference
+  - Long Continuous Design
+  - Liquid Crystal Display
+  question: What does "LCD" stand for?
+- correct_answer: Mac OS
+  options:
+  - Windows
+  - Linux
+  - OS/2
+  - Mac OS
+  question: Which operating system was released first?
+- correct_answer: Austria
+  options:
+  - Argentina
+  - Australia
+  - Angola
+  - Austria
+  question: .at is the top-level domain for what country?
+- correct_answer: Central Processing Unit
+  options:
+  - Motherboard
+  - Graphics Processing Unit
+  - Keyboard
+  - Central Processing Unit
+  question: What is known as "the brain" of the Computer?
+- correct_answer: Motorola 68000
+  options:
+  - Zilog Z80
+  - Yamaha YM2612
+  - Intel 8088
+  - Motorola 68000
+  question: What is the main CPU is the Sega Mega Drive / Sega Genesis?
+- correct_answer: Honeycomb
+  options:
+  - Eclair
+  - Froyo
+  - Marshmellow
+  - Honeycomb
+  question: What was the first Android version specifically optimized for tablets?
+- correct_answer: Jonathan Ive
+  options:
+  - Steve Jobs
+  - Ronald Wayne
+  - Steve Wozniak
+  - Jonathan Ive
+  question: Which of these people was NOT a founder of Apple Inc?
+- correct_answer: '2016'
+  options:
+  - '2013'
+  - '2009'
+  - '2011'
+  - '2016'
+  question: When did the online streaming service "Mixer" launch?
+- correct_answer: Non-impact printer
+  options:
+  - Impact printer
+  - Daisywheel printer
+  - Dot matrix printer
+  - Non-impact printer
+  question: Laserjet and inkjet printers are both examples of what type of printer?
+- correct_answer: Multipurpose Internet Mail Extensions
+  options:
+  - Mail Internet Mail Exchange
+  - Multipurpose Interleave Mail Exchange
+  - Mail Interleave Method Exchange
+  - Multipurpose Internet Mail Extensions
+  question: What does the term MIME stand for, in regards to computing?
+- correct_answer: Java
+  options:
+  - Python
+  - Solaris OS
+  - C++
+  - Java
+  question: Which programming language was developed by Sun Microsystems in 1995?
+- correct_answer: Overloading
+  options:
+  - Overriding
+  - Abstracting
+  - Inheriting
+  - Overloading
+  question: In programming, what do you call functions with the same name but different
+    implementations?
+- correct_answer: Redundant Array of Independent Disks
+  options:
+  - Rapid Access for Indexed Devices
+  - Range of Applications with Identical Designs
+  - Randomized Abstract Identification Description
+  - Redundant Array of Independent Disks
+  question: What does RAID stand for?
+- correct_answer: '1024'
+  options:
+  - '2400'
+  - '1000'
+  - '1240'
+  - '1024'
+  question: How many bytes are in a single Kibibyte?
+- correct_answer: Utah Teapot
+  options:
+  - Pixar Teapot
+  - 3D Teapot
+  - Tennessee Teapot
+  - Utah Teapot
+  question: The teapot often seen in many 3D modeling applications is called what?
+- correct_answer: '104'
+  options:
+  - '64'
+  - '94'
+  - '76'
+  - '104'
+  question: What is the number of keys on a standard Windows Keyboard?
+- correct_answer: Midnight, January 1, 1970
+  options:
+  - Midnight, July 4, 1976
+  - Midnight on the creator of Unix's birthday
+  - Midnight, July 4, 1980
+  - Midnight, January 1, 1970
+  question: Unix Time is defined as the number of seconds that have elapsed since
+    when?
+- correct_answer: '23'
+  options:
+  - '8'
+  - '53'
+  - '15'
+  - '23'
+  question: How many bits make up the significand portion of a single precision floating
+    point number?
+- correct_answer: Shamir
+  options:
+  - Secure
+  - Schottky
+  - Stable
+  - Shamir
+  question: What does the 'S' in the RSA encryption algorithm stand for?

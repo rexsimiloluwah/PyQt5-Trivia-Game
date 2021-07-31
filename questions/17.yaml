@@ -1,0 +1,862 @@
+easy:
+- correct_answer: Radius
+  options:
+  - Patella
+  - Tibia
+  - 'Fibula '
+  - Radius
+  question: Which of the following bones is not in the leg?
+- correct_answer: Femur
+  options:
+  - Cranium
+  - Humerus
+  - Tibia
+  - Femur
+  question: Which of these bones is hardest to break?
+- correct_answer: Blue Whale
+  options:
+  - Orca
+  - Colossal Squid
+  - Giraffe
+  - Blue Whale
+  question: What is the largest animal currently on Earth?
+- correct_answer: Iron
+  options:
+  - Gold
+  - Silver
+  - Tin
+  - Iron
+  question: Which element has the chemical symbol 'Fe'?
+- correct_answer: Joey
+  options:
+  - Calf
+  - Pup
+  - Cub
+  - Joey
+  question: What name is given to all baby marsupials?
+- correct_answer: Nose
+  options:
+  - Ears
+  - Chin
+  - Neck
+  - Nose
+  question: Rhinoplasty is a surgical procedure on what part of the human body?
+- correct_answer: Femur
+  options:
+  - Scapula
+  - Fibula
+  - Ulna
+  - Femur
+  question: 'Which is the longest bone in the human body? '
+- correct_answer: Metamorphic
+  options:
+  - Sedimentary
+  - Igneous
+  - Diamond
+  - Metamorphic
+  question: Which type of rock is created by intense heat AND pressure?
+- correct_answer: Mitochondria
+  options:
+  - Nucleus
+  - Chloroplast
+  - Endoplasmic Reticulum
+  - Mitochondria
+  question: What is the "powerhouse" of the Eukaryotic animal cell?
+- correct_answer: Carbon
+  options:
+  - Nitrogen
+  - Oxygen
+  - Hydrogen
+  - Carbon
+  question: This element, when overcome with extreme heat and pressure, creates diamonds.
+- correct_answer: Hg
+  options:
+  - Me
+  - Mc
+  - Hy
+  - Hg
+  question: What is the elemental symbol for mercury?
+- correct_answer: Eight
+  options:
+  - Nine
+  - Seven
+  - Ten
+  - Eight
+  question: How many planets are in our Solar System?
+- correct_answer: Venus
+  options:
+  - Mars
+  - Mercury
+  - Jupiter
+  - Venus
+  question: What is the hottest planet in the Solar System?
+- correct_answer: Hydrogen
+  options:
+  - Helium
+  - Oxygen
+  - Lithium
+  - Hydrogen
+  question: What is the first element on the periodic table?
+- correct_answer: Nitrogen
+  options:
+  - Oxygen
+  - Argon
+  - Carbon Dioxide
+  - Nitrogen
+  question: Which gas forms about 78% of the Earth&rsquo;s atmosphere?
+- correct_answer: Mitochondria
+  options:
+  - Ribosome
+  - Redbull
+  - Nucleus
+  - Mitochondria
+  question: What is the powerhouse of the cell?
+- correct_answer: Kelvin
+  options:
+  - Fahrenheit
+  - Celsius
+  - Rankine
+  - Kelvin
+  question: What is the standard SI unit for temperature?
+- correct_answer: '8'
+  options:
+  - '7'
+  - '9'
+  - '6'
+  - '8'
+  question: How many planets make up our Solar System?
+- correct_answer: Pulmonary Artery
+  options:
+  - Pulmonary Vein
+  - Aorta
+  - Coronary Artery
+  - Pulmonary Artery
+  question: Which of the following blood vessels carries deoxygenated blood?
+- correct_answer: H20
+  options:
+  - C12H6O2
+  - CO2
+  - H
+  - H20
+  question: What is the chemical makeup of water?
+- correct_answer: Nicotine
+  options:
+  - Cathinone
+  - Ephedrine
+  - Glaucine
+  - Nicotine
+  question: What is the primary addictive substance found in tobacco?
+- correct_answer: Brain
+  options:
+  - Lungs
+  - Skin
+  - Heart
+  - Brain
+  question: Alzheimer's disease primarily affects which part of the human body?
+- correct_answer: Sputnik 1
+  options:
+  - Soyuz 7K-OK
+  - Zenit-2
+  - Voskhod 3KV
+  - Sputnik 1
+  question: What was the name of the first artificial Earth satellite, launched by
+    the Soviet Union in 1957?
+- correct_answer: '206'
+  options:
+  - '203'
+  - '209'
+  - '200'
+  - '206'
+  question: How many bones are in the human body?
+- correct_answer: Deoxyribonucleic Acid
+  options:
+  - Deoxyribogenetic Acid
+  - Deoxyribogenetic Atoms
+  - Detoxic Acid
+  - Deoxyribonucleic Acid
+  question: What does DNA stand for?
+- correct_answer: Marie & Pierre Curie
+  options:
+  - The Curiosity Rover
+  - Curious George
+  - Stephen Curry
+  - Marie & Pierre Curie
+  question: Who is the chemical element Curium named after?
+- correct_answer: '4'
+  options:
+  - '2'
+  - '6'
+  - '3'
+  - '4'
+  question: The human heart has how many chambers?
+- correct_answer: Iron
+  options:
+  - Copper
+  - Iridium
+  - Cobalt
+  - Iron
+  question: The element involved in making human blood red is which of the following?
+- correct_answer: Mars and Jupiter
+  options:
+  - Jupiter and Saturn
+  - Mercury and Venus
+  - Earth and Mars
+  - Mars and Jupiter
+  question: The asteroid belt is located between which two planets?
+- correct_answer: '2'
+  options:
+  - '1'
+  - '4'
+  - '3'
+  - '2'
+  question: Human cells typically have how many copies of each gene?
+- correct_answer: Hydrogen
+  options:
+  - Helium
+  - Lithium
+  - Oxygen
+  - Hydrogen
+  question: Which is the most abundant element in the universe?
+- correct_answer: The presence or absence of a nucleus
+  options:
+  - The overall size
+  - The presence or absence of certain organelles
+  - The mode of reproduction
+  - The presence or absence of a nucleus
+  question: 'The biggest distinction between a eukaryotic cell and a prokaryotic cell
+    is:'
+- correct_answer: '23'
+  options:
+  - '21'
+  - '22'
+  - '24'
+  - '23'
+  question: How many chromosomes are in your body cells?
+- correct_answer: '244'
+  options:
+  - '94'
+  - '481'
+  - '128'
+  - '244'
+  question: What is the standard atomic weight of a Plutonium nucleus?
+- correct_answer: Light amplification by stimulated emission of radiation
+  options:
+  - Lite analysing by stereo ecorazer
+  - Light amplifier by standby energy of radio
+  - Life antimatter by standing entry of range
+  - Light amplification by stimulated emission of radiation
+  question: What does LASER stand for?
+- correct_answer: Cat
+  options:
+  - Dog
+  - Bat
+  - Butterfly
+  - Cat
+  question: What animal takes part in Schr&ouml;dinger's most famous thought experiment?
+- correct_answer: 299,792,458 m/s
+  options:
+  - 50,461 m/s
+  - 308,215,043 m/s
+  - 751,665,014,151 m/s
+  - 299,792,458 m/s
+  question: What is the speed of light in a vacuum?
+- correct_answer: Polaris
+  options:
+  - Eridanus
+  - Gamma Cephei
+  - Iota Cephei
+  - Polaris
+  question: What is the official name of the star located closest to the North Celestial
+    Pole?
+- correct_answer: A black hole
+  options:
+  - A wormhole
+  - A supernova
+  - A quasar
+  - A black hole
+  question: What lies at the center of our galaxy?
+- correct_answer: Carbon dioxide
+  options:
+  - Nitrogen
+  - Ammonia
+  - Oxygen
+  - Carbon dioxide
+  question: Dry ice is the solid form of what substance?
+hard:
+- correct_answer: Acetone
+  options:
+  - Water
+  - Mercury
+  - Benzene
+  - Acetone
+  question: Which of the following liquids is least viscous? Assume temperature is
+    25&deg;C.
+- correct_answer: Dihydrogen Monoxide
+  options:
+  - Ammonium chloride
+  - Anhydrous Sodium Carbonate
+  - Manganese dioxide
+  - Dihydrogen Monoxide
+  question: Which is the chemical name of H2O?
+- correct_answer: '100'
+  options:
+  - '26'
+  - '50'
+  - '74'
+  - '100'
+  question: How many legs is it biologically impossible for a centipede to have?
+- correct_answer: Gale
+  options:
+  - Storm
+  - Hurricane
+  - Breeze
+  - Gale
+  question: On the Beaufort Scale of wind force, what wind name is given to number
+    8?
+- correct_answer: C6H12O6
+  options:
+  - C2H4O2
+  - K+
+  - CH4
+  - C6H12O6
+  question: What is the molecular formula of Glucose?
+- correct_answer: Hydroxyl
+  options:
+  - Carbonyl
+  - Alkyl
+  - Aldehyde
+  - Hydroxyl
+  question: An organic compound is considered an alcohol if it has what functional
+    group?
+- correct_answer: Haplogroup U
+  options:
+  - Haplogroup L
+  - Haplogroup T
+  - Haplogroup J
+  - Haplogroup U
+  question: 'All of the following human genetic haplogroup names are shared between
+    Y-chromosome and mitochondrial DNA haplogroups EXCEPT:'
+- correct_answer: R
+  options:
+  - O
+  - B
+  - D
+  - R
+  question: Which horizon in a soil profile consists of bedrock?
+- correct_answer: Trees
+  options:
+  - Flowers
+  - Vegtables
+  - Grains
+  - Trees
+  question: If you planted the seeds of Quercus robur what would grow?
+- correct_answer: Ibuprofen
+  options:
+  - Morphine
+  - Ketamine
+  - Aspirin
+  - Ibuprofen
+  question: What is isobutylphenylpropanoic acid more commonly known as?
+- correct_answer: Sulfuric acid
+  options:
+  - Hydrochloric acid
+  - Potassium chloride
+  - Sodium chloride
+  - Sulfuric acid
+  question: Which of these chemical compounds is NOT found in gastric acid?
+- correct_answer: Vulpes Vulpes
+  options:
+  - Vulpes Redus
+  - Red Fox
+  - Vulpes Vulpie
+  - Vulpes Vulpes
+  question: What is the scientific name of the red fox?
+- correct_answer: Perceptual Neuron
+  options:
+  - Sensory Neuron
+  - Motor Neuron
+  - Interneuron
+  - Perceptual Neuron
+  question: Which is not a type of neuron?
+- correct_answer: Sphenopalatine Ganglioneuralgia
+  options:
+  - Hyacinthoides Italica
+  - Amaranthus Retroflexus
+  - Amblyomma Americanum
+  - Sphenopalatine Ganglioneuralgia
+  question: Which one of these is scientific term for "Brain Freeze"?
+- correct_answer: Catholic
+  options:
+  - Christian
+  - Jewish
+  - Islamic
+  - Catholic
+  question: '"The Big Bang Theory" was first theorized by a priest of what religious
+    ideology?'
+- correct_answer: The coma
+  options:
+  - The wake
+  - The backwash
+  - The ablative
+  - The coma
+  question: A comet's gaseous envelope (which creates the tail) is called what?
+- correct_answer: O3
+  options:
+  - C6H2O6
+  - N2O
+  - SO4
+  - O3
+  question: What is the molecular formula of Ozone?
+- correct_answer: TAA
+  options:
+  - ACT
+  - ACA
+  - GTA
+  - TAA
+  question: Which of these is a stop codon in DNA?
+- correct_answer: Cytosine
+  options:
+  - Thymine
+  - Adenine
+  - Uracil
+  - Cytosine
+  question: What nucleotide pairs with guanine?
+- correct_answer: Jacob's Syndrome
+  options:
+  - Klinefelter's Syndrome
+  - Turner's Syndrome
+  - Down Syndrome
+  - Jacob's Syndrome
+  question: What genetic disease is caused by having an extra Y chromosome (XYY)?
+- correct_answer: '-40'
+  options:
+  - '32'
+  - '-39'
+  - '-42'
+  - '-40'
+  question: What is the same in Celsius and Fahrenheit?
+- correct_answer: Henry
+  options:
+  - Weber
+  - Coulomb
+  - Mho
+  - Henry
+  question: What is the unit of electrical inductance?
+- correct_answer: Magnesium
+  options:
+  - Copper
+  - Lithium
+  - Lead
+  - Magnesium
+  question: Burning which of these metals will produce a bright white flame?
+- correct_answer: Myofibrils
+  options:
+  - Epimysium
+  - Myofiaments
+  - Myocardium
+  - Myofibrils
+  question: Muscle fiber is constructed of bundles small long organelles called what?
+- correct_answer: Drop-slide
+  options:
+  - Foreshock
+  - Strike-slip
+  - Temblor
+  - Drop-slide
+  question: Which of the following is NOT a word used to describe an earthquake?
+- correct_answer: Butt
+  options:
+  - Arm
+  - Head
+  - Torso
+  - Butt
+  question: Where is the Gluteus Maximus muscle located?
+- correct_answer: 9.461 Trillion Kilometres
+  options:
+  - 1 AU
+  - 105.40 Earth-years
+  - 501.2 Million Miles
+  - 9.461 Trillion Kilometres
+  question: How long is a light-year?
+- correct_answer: Australopithecus Afarensis
+  options:
+  - Australopithecus Africanus
+  - Australopithecus Architeuthis
+  - Australopithecus Antaris
+  - Australopithecus Afarensis
+  question: What is the scientific name for the extinct hominin known as "Lucy"?
+- correct_answer: Clowns
+  options:
+  - Cemeteries
+  - Needles
+  - Tunnels
+  - Clowns
+  question: Coulrophobia is the irrational fear of what?
+- correct_answer: Gorilla Gorilla Gorilla
+  options:
+  - Gorilla Gorilla Diehli
+  - Gorilla Beringei Graueri
+  - Gorilla Beringei Beringei
+  - Gorilla Gorilla Gorilla
+  question: The Western Lowland Gorilla is scientifically know as?
+- correct_answer: A genus of moths
+  options:
+  - A combat stimulant from WW2
+  - A type of seasoning
+  - A port city in the carribean
+  - A genus of moths
+  question: What is "Stenoma"?
+- correct_answer: Volt
+  options:
+  - Pascal
+  - Ohm
+  - Hertz
+  - Volt
+  question: Which scientific unit is named after an Italian nobleman?
+- correct_answer: Gauss's Law
+  options:
+  - Faraday's Law
+  - Ampere's Law
+  - Biot-Savart Law
+  - Gauss's Law
+  question: What physics principle relates the net electric flux out of a closed surface
+    to the charge enclosed by that surface?
+- correct_answer: Great white shark
+  options:
+  - Octopus
+  - Killer whale
+  - Catfish
+  - Great white shark
+  question: Which of these animals belongs in class Chondrichthyes?
+- correct_answer: Trapezius
+  options:
+  - Trapezium
+  - Trapezoid
+  - Triquetrum
+  - Trapezius
+  question: Which of the following is a major muscle of the back?
+- correct_answer: Pavlov's dog experiments
+  options:
+  - Skinner box experiment
+  - Schr&ouml;dinger's cat experiment
+  - Harlow&rsquo;s monkey experiments
+  - Pavlov's dog experiments
+  question: Which of the following is considered classical conditioning?
+- correct_answer: '6'
+  options:
+  - '2'
+  - '3'
+  - '4'
+  - '6'
+  question: How many types of quarks are there in the standard model of physics?
+- correct_answer: Graviton
+  options:
+  - Z boson
+  - Tau neutrino
+  - Gluon
+  - Graviton
+  question: In quantum physics, which of these theorised sub-atomic particles has
+    yet to be observed?
+- correct_answer: Resiniferatoxin
+  options:
+  - Capsaicin
+  - Dihydrocapsaicin
+  - Tinyatoxin
+  - Resiniferatoxin
+  question: In the Scoville scale, what is the hottest chemical?
+- correct_answer: Noether's Theorem
+  options:
+  - Bell's Theorem
+  - Wick's Theorem
+  - Carnot's Theorem
+  - Noether's Theorem
+  question: In physics, conservation of energy and conservation of momentum are both
+    consequences of which of the following?
+medium:
+- correct_answer: Nitrogen
+  options:
+  - Helium
+  - Carbon
+  - Hydrogen
+  - Nitrogen
+  question: Along with Oxygen, which element is primarily responsible for the sky
+    appearing blue?
+- correct_answer: Elbow
+  options:
+  - Knee
+  - Sholder
+  - Ankle
+  - Elbow
+  question: The humerus, paired radius, and ulna come together to form what joint?
+- correct_answer: Lift
+  options:
+  - Thrust
+  - Drag
+  - 'Weight '
+  - Lift
+  question: In aeronautics, flaps and slats are used to control what on an aircraft?
+- correct_answer: Jupiter
+  options:
+  - Uranus
+  - Neptune
+  - Mars
+  - Jupiter
+  question: Gannymede is the largest moon of which planet?
+- correct_answer: Nitrogen
+  options:
+  - Oxygen
+  - Hydrogen
+  - Neon
+  - Nitrogen
+  question: Which element has the atomic number of 7?
+- correct_answer: Leg
+  options:
+  - Arm
+  - Hand
+  - Head
+  - Leg
+  question: The "Tibia" is found in which part of the body?
+- correct_answer: Jonas Salk
+  options:
+  - John F. Enders
+  - Thomas Weller
+  - Frederick Robbins
+  - Jonas Salk
+  question: Who developed the first successful polio vaccine in the 1950s?
+- correct_answer: Polycarbonate
+  options:
+  - Rubber
+  - Nylon
+  - Bakelite
+  - Polycarbonate
+  question: What polymer is used to make CDs, safety goggles and riot shields?
+- correct_answer: Bones
+  options:
+  - Skin
+  - Brain
+  - Heart
+  - Bones
+  question: The medical condition osteoporosis affects which part of the body?
+- correct_answer: Islets of Langerhans
+  options:
+  - Node of Ranvier
+  - Schwann cell
+  - Myelin sheath
+  - Islets of Langerhans
+  question: Which of these is NOT a part of the structure of a typical neuron?
+- correct_answer: Psychoanalysis
+  options:
+  - Cognitive-Behavioral Therapy
+  - Theory of Gravity
+  - Dialectical Behavior Therapy
+  - Psychoanalysis
+  question: What term is best associated with Sigmund Freud?
+- correct_answer: Ernest Rutherford
+  options:
+  - Joseph John Thomson
+  - Archimedes
+  - Niels Henrik David Bohr
+  - Ernest Rutherford
+  question: Which one of these scientists conducted the Gold Foil Experiment which
+    concluded that atoms are mostly made of empty space?
+- correct_answer: Copenhagen
+  options:
+  - Odense
+  - Herning
+  - Skagen
+  - Copenhagen
+  question: After which Danish city is the 72th element on the periodic table named?
+- correct_answer: Ankle jerk reflex
+  options:
+  - Gag reflex
+  - Pupillary light reflex
+  - Scratch reflex
+  - Ankle jerk reflex
+  question: Which of these is a type of stretch/deep tendon reflex?
+- correct_answer: '4'
+  options:
+  - '3'
+  - '5'
+  - '6'
+  - '4'
+  question: In Chemistry, how many isomers does Butanol (C4H9OH) have?
+- correct_answer: Interphase
+  options:
+  - Prophase
+  - Stasis
+  - Telophase
+  - Interphase
+  question: What stage of development do the majority of eukaryotic cells remain in
+    for most of their life?
+- correct_answer: 212&deg;F
+  options:
+  - 200&deg;F
+  - 181&deg;F
+  - 178&deg;F
+  - 212&deg;F
+  question: At what temperature does water boil?
+- correct_answer: Wilhelm Conrad R&ouml;ntgen
+  options:
+  - Thomas Alva Edison
+  - James Watt
+  - Albert Einstein
+  - Wilhelm Conrad R&ouml;ntgen
+  question: Who made the discovery of X-rays?
+- correct_answer: 'Gray '
+  options:
+  - Watt
+  - Decibel
+  - Kelvin
+  - 'Gray '
+  question: What is radiation measured in?
+- correct_answer: Farad
+  options:
+  - Gauss
+  - Henry
+  - Watt
+  - Farad
+  question: What is the unit of electrical capacitance?
+- correct_answer: Esteem
+  options:
+  - Love
+  - Safety
+  - Physiological
+  - Esteem
+  question: In Psychology, which need appears highest in the "Maslow's hierarchy of
+    needs" pyramid?
+- correct_answer: Keratin
+  options:
+  - Bone
+  - Chitin
+  - Calcium
+  - Keratin
+  question: What are human nails made of?
+- correct_answer: Hydrogen & Helium
+  options:
+  - Hydrogen & Nitrogen
+  - Carbon & Nitrogen
+  - Carbon & Helium
+  - Hydrogen & Helium
+  question: The Sun consists of mostly which two elements?
+- correct_answer: STS-107
+  options:
+  - STS-51-L
+  - STS-61-C
+  - STS-109
+  - STS-107
+  question: On which mission did the Space Shuttle Columbia break up upon re-entry?
+- correct_answer: Hippocampus
+  options:
+  - Cerebellum
+  - Thalamus
+  - Amygdala
+  - Hippocampus
+  question: What part of the brain takes its name from the Greek for seahorse?
+- correct_answer: Mars
+  options:
+  - Saturn
+  - Jupiter
+  - Venus
+  - Mars
+  question: Which planet did the "Viking 1" spacecraft send surface images of, starting
+    in 1976?
+- correct_answer: 84 Earth years
+  options:
+  - 47 Earth years
+  - 62 Earth years
+  - 109 Earth years
+  - 84 Earth years
+  question: Approximately how long is a year on Uranus?
+- correct_answer: Gustatory Perception
+  options:
+  - Olfaction
+  - Somatosensation
+  - Auditory Perception
+  - Gustatory Perception
+  question: What is the scientific term for 'taste'?
+- correct_answer: '24'
+  options:
+  - '8'
+  - '16'
+  - '32'
+  - '24'
+  question: In human biology, a circadium rhythm relates to a period of roughly how
+    many hours?
+- correct_answer: Knee
+  options:
+  - Elbow
+  - Ankle
+  - Shoulder
+  - Knee
+  question: The medial meniscus forms which part of what joint in the human body?
+- correct_answer: Light
+  options:
+  - Water
+  - Trees
+  - Pollen
+  - Light
+  question: An organism described as "heliotropic" has a tendancy to move towards
+    which of these things?
+- correct_answer: Cornwall
+  options:
+  - Surrey
+  - Wales
+  - The Midlands
+  - Cornwall
+  question: Where did the Great Storm of 1987 make landfall at, first?
+- correct_answer: Malus pumila
+  options:
+  - Malus americana
+  - Pomus domestica
+  - Appelus delectica
+  - Malus pumila
+  question: What is the Linnean name of the domestic apple tree?
+- correct_answer: Mariner 4
+  options:
+  - Apollo 11
+  - Luna 2
+  - SMART-1
+  - Mariner 4
+  question: Which of the following spacecraft never touched the moon?
+- correct_answer: Iron
+  options:
+  - Oxygen
+  - Hydrogen
+  - Uncharged atoms
+  - Iron
+  question: Deionized water is water with which of the following removed?
+- correct_answer: Histology
+  options:
+  - Microbiology
+  - Anatomy
+  - Biochemistry
+  - Histology
+  question: What is the study of the cells and tissues of plants and animals?
+- correct_answer: Dissociative identity disorder
+  options:
+  - Body integrity identity disorder
+  - Identity crisis
+  - Schizophrenia
+  - Dissociative identity disorder
+  question: What is an alternative name for multiple personality disorder?
+- correct_answer: '1996'
+  options:
+  - '2009'
+  - '1999'
+  - '1985'
+  - '1996'
+  question: When was the first mammal successfully cloned?
+- correct_answer: Center Core Landing
+  options:
+  - Side Booster Landing
+  - Deployment of Starman
+  - Ignition and Liftoff
+  - Center Core Landing
+  question: When the Falcon Heavy was launched on it's test flight, what was the only
+    part of the operation that failed?
+- correct_answer: 13.8 Billion Years
+  options:
+  - 4.5 Billion Years
+  - 7.9 Billion Years
+  - 16.2 Billion Years
+  - 13.8 Billion Years
+  question: How old is the universe?

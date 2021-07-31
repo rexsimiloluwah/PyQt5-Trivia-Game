@@ -1,0 +1,889 @@
+easy:
+- correct_answer: Link
+  options:
+  - Mario
+  - Zelda
+  - Pit
+  - Link
+  question: What's the name of the main protagonist in the "Legend of Zelda" franchise?
+- correct_answer: Rad Mobile
+  options:
+  - Sonic The Hedgehog
+  - Super Mario 64
+  - Mega Man
+  - Rad Mobile
+  question: Which game did "Sonic The Hedgehog" make his first appearance in?
+- correct_answer: Microsoft
+  options:
+  - Apple
+  - Google
+  - Yahoo
+  - Microsoft
+  question: Which company did Gabe Newell work at before founding Valve Corporation?
+- correct_answer: Scar-20/G3SG1
+  options:
+  - M4A1
+  - AWP
+  - R8 Revolver
+  - Scar-20/G3SG1
+  question: 'What is the most expensive weapon in Counter-Strike: Global Offensive?'
+- correct_answer: Adrian Shephard
+  options:
+  - Gordon Freeman
+  - Alyx Vance
+  - Barney Calhoun
+  - Adrian Shephard
+  question: 'Who is the main character of the game Half-Life: Opposing Force?'
+- correct_answer: Estus Flask
+  options:
+  - Health Potion
+  - Orange Juice
+  - Ashen Flask
+  - Estus Flask
+  question: What is the name of the main healing item in Dark Souls?
+- correct_answer: Normandy
+  options:
+  - Osiris
+  - Infinity
+  - Endeavour
+  - Normandy
+  question: What is the main ship used by Commander Shepard in the Mass Effect Franchise
+    called?
+- correct_answer: Arkham Asylum
+  options:
+  - Arkham Knight
+  - Arkham City
+  - Arkham Origins
+  - Arkham Asylum
+  question: What was the first video game in the Batman "Arkham" series?
+- correct_answer: Stanley
+  options:
+  - The Adventure Line
+  - The Narrator
+  - The Boss
+  - Stanley
+  question: Who is the main character in "The Stanley Parable"?
+- correct_answer: Team Rocket
+  options:
+  - Team Instinct
+  - Team Valor
+  - Team Mystic
+  - Team Rocket
+  question: Which of these is NOT a team available in the game Pok&eacute;mon Go?
+- correct_answer: Townley
+  options:
+  - De Santos
+  - Watson
+  - Simpson
+  - Townley
+  question: In Grand Theft Auto V, what was Michael De Santa's former surname?
+- correct_answer: Thievius Raccoonus
+  options:
+  - Raccoon Training 101
+  - The Art of Sneak
+  - Raccoonus Teachus
+  - Thievius Raccoonus
+  question: In the first game of the Sly Cooper franchise, what family heirloom did
+    Sly Cooper want to steal back?
+- correct_answer: Zepheniah Mann
+  options:
+  - Cave Johnson
+  - Wallace Breem
+  - Saxton Hale
+  - Zepheniah Mann
+  question: Who is the founder of Team Fortress 2's fictional company "Mann Co"?
+- correct_answer: Frank West
+  options:
+  - Chuck Greene
+  - John North
+  - Jason Grey
+  - Frank West
+  question: Who is the protagonist in Dead Rising (2006)?
+- correct_answer: More questions
+  options:
+  - New car
+  - Mercy
+  - Money
+  - More questions
+  question: In Undertale, what's the prize for answering correctly?
+- correct_answer: World War II
+  options:
+  - World War I
+  - Vietnam War
+  - Iraq War
+  - World War II
+  question: The "Day of Defeat" series of games take place during which war?
+- correct_answer: Charcoal
+  options:
+  - Coal
+  - Wheat
+  - String
+  - Charcoal
+  question: In vanilla Minecraft, which of the following cannot be made into a block?
+- correct_answer: Makoto Naegi
+  options:
+  - Hajime Hinata
+  - Nagito Komaeda
+  - Komaru Naegi
+  - Makoto Naegi
+  question: 'In Danganronpa: Trigger Happy Havoc, what is the protagonist''s name?'
+- correct_answer: Will Stamper
+  options:
+  - Steve Blum
+  - Richard Epcar
+  - Yuri Lowenthal
+  - Will Stamper
+  question: In the game Battleblock Theater, what was the name of the voice actor
+    who voiced the narrator?
+- correct_answer: '2007'
+  options:
+  - '2008'
+  - '2009'
+  - '2010'
+  - '2007'
+  question: In what year was the first "Mass Effect" game released?
+- correct_answer: Toad
+  options:
+  - Luigi
+  - Yoshi
+  - Bowser
+  - Toad
+  question: In Super Mario Bros., who informs Mario that the princess is in another
+    castle?
+- correct_answer: Flash
+  options:
+  - Strength
+  - Cut
+  - Fly
+  - Flash
+  question: In Pokemon Red & Blue, what is the name of HM05?
+- correct_answer: An enemy in the game
+  options:
+  - The final boss's name
+  - The main character's name
+  - A spaceship's name
+  - An enemy in the game
+  question: The name of the Metroid series comes from what?
+- correct_answer: Gielinor
+  options:
+  - Glindor
+  - Azeroth
+  - Zaros
+  - Gielinor
+  question: What is the name of the world that the MMO "RuneScape" takes place in?
+- correct_answer: November 17, 2009
+  options:
+  - May 3, 2008
+  - November 30, 2009
+  - June 30, 2010
+  - November 17, 2009
+  question: When was Left 4 Dead 2 released?
+- correct_answer: Rockman
+  options:
+  - Paperman
+  - Scissorsman
+  - Mega Man
+  - Rockman
+  question: Which of the following names is the "Mega Man" Franchise known as in Japan?
+- correct_answer: J.K. Simmons
+  options:
+  - Nolan North
+  - John Patrick Lowrie
+  - Christopher Lloyd
+  - J.K. Simmons
+  question: Aperture Science CEO Cave Johnson is voiced by which American actor?
+- correct_answer: Counter-Strike 1.6
+  options:
+  - Half-Life
+  - Half-Life 2
+  - Team Fortress
+  - Counter-Strike 1.6
+  question: What game was used to advertise Steam?
+- correct_answer: The Pentagon Thief
+  options:
+  - Hellhounds
+  - Jumping Jacks
+  - Napalm Zombie
+  - The Pentagon Thief
+  question: 'What is the boss round featured in the "Call Of Duty: Zombies" map "Five"?'
+- correct_answer: Hideo Kojima
+  options:
+  - Hiroshi Yamauchi
+  - Shigeru Miyamoto
+  - Gunpei Yokoi
+  - Hideo Kojima
+  question: Who created the "Metal Gear" Series?
+- correct_answer: Steelport
+  options:
+  - Stilwater
+  - Carcer
+  - Liberty
+  - Steelport
+  question: What is the name of the City in Saints Row The Third?
+- correct_answer: SPARTAN-II
+  options:
+  - SPARTAN-I
+  - SPARTAN-III
+  - SPARTAN-IV
+  - SPARTAN-II
+  question: 'In the Halo series, which era of SPARTAN is Master Chief? '
+- correct_answer: Gnasty Gnorc
+  options:
+  - Ripto
+  - Sorceress
+  - Cynder
+  - Gnasty Gnorc
+  question: In the original Spyro game who is the first villain?
+- correct_answer: Just Cause 2
+  options:
+  - Grand Theft Auto 5
+  - 'The Elder Scrolls 4:  Oblivion'
+  - 'The Witcher 3:  Wild Hunt'
+  - Just Cause 2
+  question: Which of the following games has the largest map size?
+- correct_answer: Lucky 38
+  options:
+  - The Tops
+  - Gammorah
+  - Ultra-Luxe
+  - Lucky 38
+  question: 'In Fallout: New Vegas, which one of these casinos can you not play in?'
+- correct_answer: Marlon
+  options:
+  - Marnie
+  - Morris
+  - Marvin
+  - Marlon
+  question: What is the name of the adventurer you meet at the mines in Stardew Valley?
+- correct_answer: 'Shedinja '
+  options:
+  - Sableye
+  - Spiritomb
+  - 'Silvally '
+  - 'Shedinja '
+  question: 'In Pokemon, the ability Wonder Guard is exclusive to which Pokemon? '
+- correct_answer: Majora's Mask
+  options:
+  - Ocarina of Time
+  - Skyward Sword
+  - Breath of the Wild
+  - Majora's Mask
+  question: Which of the following Zelda games did not feature Ganon as a final boss?
+- correct_answer: Fane
+  options:
+  - Lohse
+  - The Red Prince
+  - There are no skeletal origin characters
+  - Fane
+  question: 'In Divinity: Original Sin II, what is the name of the skeletal origin
+    character?'
+- correct_answer: Tora
+  options:
+  - Rex
+  - Zeke
+  - Nia
+  - Tora
+  question: In "Xenoblade Chronicles 2", Which party member cannot use normal blades?
+hard:
+- correct_answer: Project Needlemouse
+  options:
+  - Project Bluespike
+  - Project Roboegg
+  - Project Darksphere
+  - Project Needlemouse
+  question: What was the code name given to Sonic the Hedgehog 4 during its development?
+- correct_answer: Dirk the Daring
+  options:
+  - Arthur
+  - Sir Toby Belch
+  - Guy of Gisbourne
+  - Dirk the Daring
+  question: What was the name of the hero in the 80s animated video game 'Dragon's
+    Lair'?
+- correct_answer: Lemnos
+  options:
+  - Ithaca
+  - Naxos
+  - Anafi
+  - Lemnos
+  question: The map featured in Arma 3 named "Altis" is based off of what Greek island?
+- correct_answer: Toriel
+  options:
+  - Papyrus
+  - Undyne
+  - Alphys
+  - Toriel
+  question: Which of these characters in "Undertale" can the player NOT go on a date
+    with?
+- correct_answer: Lily of the Valley
+  options:
+  - Hydrangea
+  - Harebell
+  - Yarrow
+  - Lily of the Valley
+  question: In the Animal Crossing series, which flower is erroneously called the
+    "Jacob's Ladder"?
+- correct_answer: '1998'
+  options:
+  - '2004'
+  - '1999'
+  - '1997'
+  - '1998'
+  question: When was the first "Half-Life" released?
+- correct_answer: 1000  km/h
+  options:
+  - 500 km/h
+  - 320 km/h
+  - 100 km/h
+  - 1000  km/h
+  question: 'What is the fastest speed possible in Trackmania&sup2;: Stadium?'
+- correct_answer: SecondLife
+  options:
+  - ActiveWorlds
+  - IMVU
+  - HabboHotel
+  - SecondLife
+  question: Which of these online games was originally named LindenWorld in it's early
+    development?
+- correct_answer: '"You done?"'
+  options:
+  - '"Whoa there."'
+  - '"Hold up now."'
+  - '"Don''t move."'
+  - '"You done?"'
+  question: In the game "Overwatch," which quote does the hero "McCree" NOT say upon
+    using his flashbang ability?
+- correct_answer: Crawfish
+  options:
+  - Lobster
+  - Salmon
+  - Swordfish
+  - Crawfish
+  question: 'What animal is on Link''s pajamas in The Legend of Zelda: The Wind Waker?'
+- correct_answer: '7355608'
+  options:
+  - '7890728'
+  - '7256380'
+  - '7726354'
+  - '7355608'
+  question: 'In Counter Strike: Global Offensive, what is the code implanted onto
+    the C4 as the Terrorists plant the bomb?'
+- correct_answer: James Bond
+  options:
+  - Diddy Kong
+  - Mega Man
+  - Wave Racer
+  - James Bond
+  question: Which of these characters was considered, but ultimately not included,
+    for Super Smash Bros. Melee?
+- correct_answer: s
+  options:
+  - n
+  - i
+  - m
+  - s
+  question: In the title of the game "Luigi's Mansion", what is the only letter to
+    not appear with a pair of eyes in it?
+- correct_answer: Day 23
+  options:
+  - Day 20
+  - Day 17
+  - Day 15
+  - Day 23
+  question: Which day in "Papers, Please" does the man in red appear?
+- correct_answer: Pig
+  options:
+  - Zombie
+  - Chicken
+  - Cow
+  - Pig
+  question: The creeper in Minecraft was the result of a bug while implementing which
+    creature?
+- correct_answer: '685'
+  options:
+  - '1360'
+  - '716'
+  - '1155'
+  - '685'
+  question: How many trophies are there in "Super Smash Bros. for Nintendo 3DS"?
+- correct_answer: '8'
+  options:
+  - '6'
+  - '10'
+  - '12'
+  - '8'
+  question: How many voice channels does the Super Nintendo Entertainment System support?
+- correct_answer: 'The Legend of Zelda: The Minish Cap'
+  options:
+  - 'The Legend of Zelda: Twilight Princess'
+  - 'The Legend of Zelda: Spirit Tracks'
+  - 'The Legend of Zelda: Four Swords'
+  - 'The Legend of Zelda: The Minish Cap'
+  question: Which of the following games in the The Legend of Zelda franchise was
+    released in Japan before North America?
+- correct_answer: Lamentation
+  options:
+  - Galvanized Atomic Lead Insertion Liquidator
+  - Gabig
+  - Predictive Death Wish
+  - Lamentation
+  question: 'In the Zombies mode of "Call of Duty: Black Ops", what is the "Pack-A-Punched"
+    version of the "Galil" called?'
+- correct_answer: Raise Hell
+  options:
+  - Freedom
+  - Skewer the Winged Beast
+  - Ascend from Darkness
+  - Raise Hell
+  question: 'In the "Little Lost Girl" Easter Egg in Call of Duty: Black Ops II, what''s
+    the last step required for the achievement?'
+- correct_answer: Ceadeus
+  options:
+  - Alatreon
+  - Rathalos
+  - Lagiacrus
+  - Ceadeus
+  question: Which monster in "Monster Hunter Tri" was causing earthquakes in Moga
+    Village?
+- correct_answer: Spookit
+  options:
+  - Petricub
+  - Trictus
+  - Pyromantle
+  - Spookit
+  question: In "Starbound", according to the asset files, the description of the "Erchius
+    Ghost" is the same as which other assets?
+- correct_answer: 50,000 HP
+  options:
+  - 9,000,000 HP
+  - 100 HP
+  - 150,000 HP
+  - 50,000 HP
+  question: In "Starbound", what is the max HP of the monster "Punchy"?
+- correct_answer: Bansai Ichiyanagi
+  options:
+  - Manfred Von Karma
+  - Gregory Edgeworth
+  - Tateyuki Shigaraki
+  - Bansai Ichiyanagi
+  question: In the "Ace Attorney" series, who was the truly responsible of the forging
+    of the autopsy report of the pivotal IS-7 incident?
+- correct_answer: Nathan Steele
+  options:
+  - Nate Siemens
+  - Nick Stamos
+  - Nolan Stuhlinger
+  - Nathan Steele
+  question: In the "PAYDAY" series, what is the real name of the character known as
+    "Dallas"?
+- correct_answer: Mob Of The Dead
+  options:
+  - Buried
+  - Origins
+  - Moon
+  - Mob Of The Dead
+  question: 'What was the first "Call Of Duty: Zombies" map to be directed by Jason
+    Blundell?'
+- correct_answer: Generator 5
+  options:
+  - Generator 3
+  - Generator 4
+  - Excavation Site
+  - Generator 5
+  question: 'In the "Call Of Duty: Zombies" map "Origins", where is "Stamin-Up" located?'
+- correct_answer: Hudson Mohawke
+  options:
+  - Rustie
+  - Machinedrum
+  - Flying Lotus
+  - Hudson Mohawke
+  question: Which artist composed the original soundtrack for "Watch Dogs 2"?
+- correct_answer: Showdown
+  options:
+  - Hadouken
+  - Organ Grinder
+  - Skewer
+  - Showdown
+  question: In "Team Fortress 2", what is the fastest taunt kill that can be pulled
+    off?
+- correct_answer: Po Town
+  options:
+  - Heahea City
+  - Tapu Village
+  - Iki Town
+  - Po Town
+  question: In "Pok&eacute;mon Sun and Moon", Team Skull took over which town?
+- correct_answer: Andariel
+  options:
+  - Valla
+  - Malthael
+  - Kashya
+  - Andariel
+  question: In Diablo lore, this lesser evil spawned from one of the seven heads of
+    Tathamet, and was known as the Maiden of Anguish.
+- correct_answer: Shandalar
+  options:
+  - Theros
+  - Ravnica
+  - Amonkhet
+  - Shandalar
+  question: What is the plane of existence in MicroProse's 1997 "Magic the Gathering"?
+- correct_answer: Bloodstar
+  options:
+  - Sachs
+  - Dracuul
+  - Alucard
+  - Bloodstar
+  question: What is the default name of the Vampire character in "Shining Soul 2".
+- correct_answer: Night Trap
+  options:
+  - Sewer Shark
+  - The Daedalus Encounter
+  - Corpse Killer
+  - Night Trap
+  question: The creation of the  Entertainment Software Ratings Board (ESRB) is often
+    associated with Mortal Kombat and what FMV video game?
+- correct_answer: Ace Combat
+  options:
+  - Jet Set Radio
+  - Deus Ex
+  - Crimson Skies
+  - Ace Combat
+  question: '"Strangereal" is a fictitious Earth-like world for which game series?'
+- correct_answer: Racing Driver
+  options:
+  - Taxi Driver
+  - Delivery Driver
+  - Getaway Driver
+  - Racing Driver
+  question: Which occupation did John Tanner, the main protagonist for Driver and
+    Driver 2, had before turning into an undercover cop?
+- correct_answer: '13'
+  options:
+  - '6'
+  - '18'
+  - '10'
+  - '13'
+  question: In the game Warframe, what Mastery Rank do you need to have to build the
+    Tigris Prime?
+- correct_answer: Fujin
+  options:
+  - Raijin
+  - Seifer
+  - Zell
+  - Fujin
+  question: Which of these characters from Final Fantasy VIII primarily spoke in one
+    word sentences?
+- correct_answer: Electroman Adventures
+  options:
+  - Theory of Everything
+  - 'Clubstep '
+  - Clutterfunk
+  - Electroman Adventures
+  question: In Geometry Dash, what is level 13?
+- correct_answer: '25'
+  options:
+  - '30'
+  - '20'
+  - '15'
+  - '25'
+  question: Counting the Blood and Wine DLC, how many Hero Cards are there in total
+    in The Witcher 3?
+medium:
+- correct_answer: Kenya
+  options:
+  - India
+  - Turkey
+  - Slovakia
+  - Kenya
+  question: In the "Halo" franchise, in what country is New Mombasa?
+- correct_answer: Six
+  options:
+  - Seven
+  - Five
+  - Eight
+  - Six
+  question: How many Chaos Emeralds can you collect in the first Sonic The Hedgehog?
+- correct_answer: Dolphin
+  options:
+  - Nitro
+  - Revolution
+  - Atlantis
+  - Dolphin
+  question: What was the code name for the "Nintendo Gamecube"?
+- correct_answer: Looking up and down
+  options:
+  - Increased room sizes
+  - Unlimited weapons
+  - Highly-detailed textures
+  - Looking up and down
+  question: Which of these features was added in the 1994 game "Heretic" that the
+    original "DOOM" could not add due to limitations?
+- correct_answer: '1991'
+  options:
+  - '1989'
+  - '1993'
+  - '1995'
+  - '1991'
+  question: In what year was the original Sonic the Hedgehog game released?
+- correct_answer: '9'
+  options:
+  - '6'
+  - '10'
+  - '3'
+  - '9'
+  question: 'Excluding their instructor, how many members of Class VII are there in
+    the game "Legend of Heroes: Trails of Cold Steel"?'
+- correct_answer: Green Flu
+  options:
+  - Yellow Fever
+  - T-Virus
+  - Raspberry Sniffles
+  - Green Flu
+  question: In Left 4 Dead, what is the name of the virus, as designated by CEDA,
+    that causes most humans to turn into the Infected?
+- correct_answer: The source code got leaked
+  options:
+  - They weren't satisfied with the result
+  - The story was not good enough
+  - Way too many bugs to be fixed
+  - The source code got leaked
+  question: What happened to Half-Life 2 prior to its release, which resulted in Valve
+    starting over the development of the game?
+- correct_answer: Tengu
+  options:
+  - Sylvari
+  - Charr
+  - 'Asura '
+  - Tengu
+  question: 'Which of the following is not a playable race in the MMORPG Guild Wars
+    2? '
+- correct_answer: Flowey
+  options:
+  - Toriel
+  - Sans
+  - Papyrus
+  - Flowey
+  question: In the 2015 RPG "Undertale", which character do you first encounter after
+    falling down into the underground?
+- correct_answer: Final Fantasy III
+  options:
+  - Final Fantasy VI
+  - Final Fantasy V
+  - Final Fantasy II
+  - Final Fantasy III
+  question: Final Fantasy VI was originally released outside Japan under what name?
+- correct_answer: '1995'
+  options:
+  - '1989'
+  - '1997'
+  - '1992'
+  - '1995'
+  question: When was Nintendo's Virtual Boy released?
+- correct_answer: Arms Race
+  options:
+  - Hostage Rescue
+  - Bomb Defusal
+  - Assassination
+  - Arms Race
+  question: What is not a default game mode in Counter-Strike (2000)?
+- correct_answer: Picksaw
+  options:
+  - Pwnhammer
+  - Breaker Blade
+  - Laser Rifle
+  - Picksaw
+  question: In Terraria, what does the Wall of Flesh not drop upon defeat?
+- correct_answer: Luminid
+  options:
+  - Dragalge
+  - Mandibuzz
+  - Araquanid
+  - Luminid
+  question: Which of the following is not a real Pok&eacute;mon?
+- correct_answer: '61'
+  options:
+  - '59'
+  - '65'
+  - '62'
+  - '61'
+  question: In Overwatch, how old is Reinhardt Wilhelm?
+- correct_answer: Raigor Stonehoof
+  options:
+  - Banehallow Ambry
+  - Carl
+  - Barathrum
+  - Raigor Stonehoof
+  question: In Dota 2, what is Earthshaker's real name?
+- correct_answer: Second World War
+  options:
+  - Manga
+  - World of Warcraft
+  - An Anime
+  - Second World War
+  question: What is the browser game Kantai Collection heavily inspired by?
+- correct_answer: Sligs
+  options:
+  - Scrabs
+  - Slogs
+  - Glukkons
+  - Sligs
+  question: What is the name of the common, gun-toting enemies of the "Oddworld" video
+    game series?
+- correct_answer: Wild Wiggler
+  options:
+  - Bone Rattler
+  - B Dasher
+  - 300 SL Roadster
+  - Wild Wiggler
+  question: Which of these is not a DLC vehicle in "Mario Kart 8"?
+- correct_answer: 'The Elder Scrolls IV: Oblivion'
+  options:
+  - 'The Elder Scrolls V: Skyrim'
+  - 'The Elder Scrolls III: Morrowind '
+  - The Elder Scrolls Online
+  - 'The Elder Scrolls IV: Oblivion'
+  question: Sean Bean voices the character of "Martin Septim" in which Elder Scrolls
+    game?
+- correct_answer: Semper Fi
+  options:
+  - Ring of Steel
+  - Vendetta
+  - Eviction
+  - Semper Fi
+  question: 'What is the name of the first level in "Call of Duty: World at War"?'
+- correct_answer: '87 Bazillion '
+  options:
+  - 87 Million
+  - 87 Trillion
+  - '87 Gazillion '
+  - '87 Bazillion '
+  question: How many unique items does "Borderlands 2" claim to have?
+- correct_answer: Shi No Numa
+  options:
+  - Tranzit
+  - Kino Der Toten
+  - Der Riese
+  - Shi No Numa
+  question: 'Which was the first "Call Of Duty: Zombies" map to introduce the "Wunderwaffe
+    DG-2"?'
+- correct_answer: 'Call Of Duty: Black Ops III'
+  options:
+  - 'Call Of Duty: Black Ops'
+  - 'Call Of Duty: World At War'
+  - 'Call Of Duty: Black Ops II'
+  - 'Call Of Duty: Black Ops III'
+  question: In which "Call of Duty" game are the "Apothicons" introduced in the Zombies
+    mode?
+- correct_answer: Ascension
+  options:
+  - Moon
+  - Call Of The Dead
+  - Die Rise
+  - Ascension
+  question: 'In "Call Of Duty: Zombies", which map introduced the perk "PhD Flopper"?'
+- correct_answer: Purple
+  options:
+  - Red
+  - Green
+  - Blue
+  - Purple
+  question: In the beginning of the game "Sonic Adventure", what color Chaos Emerald
+    does Tails own?
+- correct_answer: Sarah
+  options:
+  - Ellie
+  - Tess
+  - Marlene
+  - Sarah
+  question: 'What is the name of Joel''s daughter in the game, "The Last of Us"? '
+- correct_answer: Sonic the Hedgehog 3
+  options:
+  - Sonic the Hedgehog 2
+  - Sonic & Knuckles
+  - Sonic Adventure
+  - Sonic the Hedgehog 3
+  question: Which Sonic the Hedgehog game introudced Knuckles the Echidna?
+- correct_answer: 'Michael Jackson '
+  options:
+  - Prince
+  - George Michael
+  - 'Vanilla Ice '
+  - 'Michael Jackson '
+  question: Which pop singer was brought in by SEGA to produce the music for "Sonic
+    the Hedgehog 3"?
+- correct_answer: Warren Robinett
+  options:
+  - Julius Smith
+  - Will Crowther
+  - Don Woods
+  - Warren Robinett
+  question: Who is credited with having created the world's first video game Easter
+    Egg?
+- correct_answer: Golden Mushroom
+  options:
+  - Star
+  - Bullet Bill
+  - Boo
+  - Golden Mushroom
+  question: Which of the following Mario Kart 8 Deluxe items will NOT make you invincible?
+- correct_answer: Dallas
+  options:
+  - Wolf
+  - Chains
+  - Hoxton
+  - Dallas
+  question: In the PAYDAY series, who is the iconic leader of the PAYDAY gang?
+- correct_answer: '25'
+  options:
+  - '20'
+  - '30'
+  - '35'
+  - '25'
+  question: 'In Call of Duty: Modern Warfare 2, how many consecutive kills does it
+    require to earn the "Tactical Nuke" killstreak?'
+- correct_answer: Copycat
+  options:
+  - ' Martrydom'
+  - Final Stand
+  - Revenge
+  - Copycat
+  question: 'What CoD "Deathstreak" is only featured in Call of Duty : Modern Warfare
+    2?'
+- correct_answer: Drums
+  options:
+  - Bass
+  - Piano
+  - Sax
+  - Drums
+  question: In Night in the Woods, which instrument did Casey play?
+- correct_answer: '6'
+  options:
+  - '5'
+  - '4'
+  - '8'
+  - '6'
+  question: In the ARPG "Path of Exile," what is the highest amount of sockets that
+    an item can have?
+- correct_answer: The Dentist
+  options:
+  - Vlad
+  - The Elephant
+  - The Butcher
+  - The Dentist
+  question: In the co-op shooter Payday 2, which contact helps you break out Hoxton?
+- correct_answer: 'Raul Men&eacute;ndez '
+  options:
+  - 'Vladimir Makarov '
+  - Frank Woods
+  - DeFalco
+  - 'Raul Men&eacute;ndez '
+  question: 'In Call Of Duty: Black Ops II, who is the main antagonist?'
+- correct_answer: Mii Fighters
+  options:
+  - Ness
+  - R.O.B.
+  - Mewtwo
+  - Mii Fighters
+  question: Which unlockable character in Super Smash Bros. For Wii U and 3DS does
+    not have to be fought to be unlocked?

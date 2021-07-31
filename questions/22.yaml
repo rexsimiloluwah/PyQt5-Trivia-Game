@@ -1,0 +1,869 @@
+easy:
+- correct_answer: Lion
+  options:
+  - Bull
+  - Horse
+  - Dog
+  - Lion
+  question: The body of the Egyptian Sphinx was based on which animal?
+- correct_answer: Alaska
+  options:
+  - California
+  - Texas
+  - Washington
+  - Alaska
+  question: What state is the largest state of the United States of America?
+- correct_answer: Canada
+  options:
+  - Russia
+  - China
+  - United States of America
+  - Canada
+  question: What country is the second largest in the world by area?
+- correct_answer: Jakarta
+  options:
+  - Bandung
+  - Medan
+  - Palembang
+  - Jakarta
+  question: What is the capital of Indonesia?
+- correct_answer: Alberta
+  options:
+  - New South Wales
+  - Victoria
+  - Queensland
+  - Alberta
+  question: Which of these is NOT an Australian state or territory?
+- correct_answer: France
+  options:
+  - Slovenia
+  - Switzerland
+  - Slovakia
+  - France
+  question: Which country does Austria not border?
+- correct_answer: '16'
+  options:
+  - '13'
+  - '32'
+  - '25'
+  - '16'
+  question: How many federal states does Germany have?
+- correct_answer: Copenhagen
+  options:
+  - Aarhus
+  - Odense
+  - Aalborg
+  - Copenhagen
+  question: What is the capital of Denmark?
+- correct_answer: American football
+  options:
+  - Combball
+  - Handball
+  - Touchdown
+  - American football
+  question: If soccer is called football in England, what is American football called
+    in England?
+- correct_answer: Basque
+  options:
+  - Galician
+  - Maltese
+  - Hungarian
+  - Basque
+  question: Which of the following European languages is classified as a "language
+    isolate?"
+- correct_answer: Serbia
+  options:
+  - Bosnia and Herzegovina
+  - Montenegro
+  - Croatia
+  - Serbia
+  question: Which of the following former Yugoslavian states is landlocked?
+- correct_answer: Omicron (&Omicron;)
+  options:
+  - Sigma (&Sigma;)
+  - Pi (&Pi;)
+  - Nu (&Nu;)
+  - Omicron (&Omicron;)
+  question: What is the 15th letter of the Greek alphabet?
+- correct_answer: Georgian
+  options:
+  - Turkish
+  - Swahili
+  - Vietnamese
+  - Georgian
+  question: Which of the following languages does NOT use the Latin alphabet?
+- correct_answer: No one, but there are claims.
+  options:
+  - United States of America
+  - United Nations
+  - Australia
+  - No one, but there are claims.
+  question: Which nation claims ownership of Antarctica?
+- correct_answer: Constantinople
+  options:
+  - H&uuml;davendigar
+  - "S&ouml;\u011F&uuml;t"
+  - Adrianople
+  - Constantinople
+  question: What name was historically used for the Turkish city currently known as
+    Istanbul?
+- correct_answer: '2'
+  options:
+  - '1'
+  - '3'
+  - '4'
+  - '2'
+  question: How many countries does the United States share a land border with?
+- correct_answer: Spanish
+  options:
+  - English
+  - Portuguese
+  - Creole
+  - Spanish
+  question: What is the official language of Costa Rica?
+- correct_answer: Qatar
+  options:
+  - Kuwait
+  - United Arab Emirates
+  - Jordan
+  - Qatar
+  question: Which of the following Arab countries does NOT have a flag containing
+    only Pan-Arab colours?
+- correct_answer: Monaco
+  options:
+  - Bahrain
+  - Malta
+  - Liechenstein
+  - Monaco
+  question: What country has a horizontal bicolor red and white flag?
+- correct_answer: Wales
+  options:
+  - England
+  - North Ireland
+  - Scotland
+  - Wales
+  question: Which UK country features a dragon on their flag?
+- correct_answer: Washington, D.C.
+  options:
+  - Los Angelas, CA
+  - New York City, NY
+  - Houston, TX
+  - Washington, D.C.
+  question: What is the Capital of the United States?
+- correct_answer: Equatorial Guinea
+  options:
+  - Guinea
+  - Cameroon
+  - Angola
+  - Equatorial Guinea
+  question: Which of these African countries list "Spanish" as an official language?
+- correct_answer: The First State
+  options:
+  - The Fiftieth State
+  - The Second State
+  - The Sixteenth State
+  - The First State
+  question: What is the nickname for the US state Delaware?
+- correct_answer: Iberian Peninsula
+  options:
+  - European Peninsula
+  - Peloponnesian Peninsula
+  - Scandinavian Peninsula
+  - Iberian Peninsula
+  question: What is the name of the peninsula containing Spain and Portugal?
+- correct_answer: Seattle
+  options:
+  - Los Angles
+  - Toronto
+  - Vancouver
+  - Seattle
+  question: The Space Needle is located in which city?
+- correct_answer: Cambridge
+  options:
+  - Providence
+  - New York
+  - Washington D.C.
+  - Cambridge
+  question: Harvard University is located in which city?
+- correct_answer: Brazil
+  options:
+  - China
+  - Russia
+  - The United States
+  - Brazil
+  question: Which country is the home of the largest Japanese population outside of
+    Japan?
+- correct_answer: "Gda\u0144sk"
+  options:
+  - Warsaw
+  - Zakopane
+  - "Pozna\u0144"
+  - "Gda\u0144sk"
+  question: What is the Polish city known to Germans as Danzig?
+- correct_answer: '3'
+  options:
+  - '2'
+  - '4'
+  - '1'
+  - '3'
+  question: How many countries does Mexico border?
+- correct_answer: Honshu
+  options:
+  - Hokkaido
+  - Shikoku
+  - Kyushu
+  - Honshu
+  question: Which of the following Japanese islands is the biggest?
+- correct_answer: Maori
+  options:
+  - Vikings
+  - Polynesians
+  - Samoans
+  - Maori
+  question: What is the name of New Zealand's indigenous people?
+- correct_answer: Madrid
+  options:
+  - Barcelona
+  - Sevilla
+  - Toledo
+  - Madrid
+  question: What is the capital of Spain?
+- correct_answer: New Delhi
+  options:
+  - Bejing
+  - Montreal
+  - Tithi
+  - New Delhi
+  question: What is the capital of India?
+- correct_answer: Vatican City
+  options:
+  - Maldives
+  - Monaco
+  - Malta
+  - Vatican City
+  question: What is the smallest country in the world?
+- correct_answer: Russia
+  options:
+  - Canada
+  - China
+  - United States
+  - Russia
+  question: What is the largest country in the world?
+- correct_answer: Sri Lanka
+  options:
+  - Kiribati
+  - Scotland
+  - Bhutan
+  - Sri Lanka
+  question: Which of the following countries has a flag featuring a yellow lion wielding
+    a sword on a dark red background?
+- correct_answer: Pacific
+  options:
+  - Atlantic
+  - Indian
+  - Arctic
+  - Pacific
+  question: Which ocean borders the west coast of the United States?
+- correct_answer: Edinburgh
+  options:
+  - Glasgow
+  - Dundee
+  - London
+  - Edinburgh
+  question: What is the capital of Scotland?
+- correct_answer: Andorra
+  options:
+  - San Marino
+  - Vatican City
+  - Lichtenstein
+  - Andorra
+  question: Which small country is located between the borders of France and Spain?
+- correct_answer: Rome, Italy
+  options:
+  - Barcelona, Spain
+  - Berlin, Germany
+  - London, England
+  - Rome, Italy
+  question: Where would you find the "Spanish Steps"?
+hard:
+- correct_answer: Finland
+  options:
+  - Norway
+  - Sweden
+  - Denmark
+  - Finland
+  question: What country is not a part of Scandinavia?
+- correct_answer: Colombo
+  options:
+  - Moratuwa
+  - Negombo
+  - Kandy
+  - Colombo
+  question: What is the largest city and commercial capital of Sri Lanka?
+- correct_answer: Suriname
+  options:
+  - Georgia
+  - Russia
+  - Singapore
+  - Suriname
+  question: Which of these countries is NOT a part of the Asian continent?
+- correct_answer: Barbados
+  options:
+  - Fiji
+  - Maldives
+  - Seychelles
+  - Barbados
+  question: Which of these island countries is located in the Caribbean?
+- correct_answer: Islamabad
+  options:
+  - Hyderabad
+  - Ahmedabad
+  - Ghaziabad
+  - Islamabad
+  question: Which of these is NOT a city in India?
+- correct_answer: Chinese
+  options:
+  - Japanese
+  - Russian
+  - Indian
+  - Chinese
+  question: The prefix Sino- (As in Sino-American) is used to refer to what nationality?
+- correct_answer: Lesotho
+  options:
+  - Swaziland
+  - Botswana
+  - Zimbabwe
+  - Lesotho
+  question: Which country is completely landlocked by South Africa?
+- correct_answer: Yangtze
+  options:
+  - Fujian
+  - Sichuan
+  - Guangdong
+  - Yangtze
+  question: Which of these is NOT a province in China?
+- correct_answer: Afghanistan and Pakistan
+  options:
+  - India and Nepal
+  - Pakistan and India
+  - Tajikistan and Kyrgyzstan
+  - Afghanistan and Pakistan
+  question: The mountainous Khyber Pass connects which of the two following countries?
+- correct_answer: Lishana Deni
+  options:
+  - Hulaul&aacute;
+  - Lishan Didan
+  - Chaldean Neo-Aramaic
+  - Lishana Deni
+  question: What is the name of one of the Neo-Aramaic languages spoken by the Jewish
+    population from Northwestern Iraq?
+- correct_answer: Inuktitut
+  options:
+  - Inuinnaqtun
+  - Greenlandic
+  - Inupiat
+  - Inuktitut
+  question: Which of the following Inuit languages was the FIRST to use a unique writing
+    system not based on the Latin alphabet?
+- correct_answer: 36,600
+  options:
+  - 2,400
+  - 90,000
+  - 323,400
+  - 36,600
+  question: In 2012 the German-speaking microstate "Liechtenstein" in Central Europe
+    had a population of how many inhabitants?
+- correct_answer: '1848'
+  options:
+  - '1634'
+  - '1783'
+  - '1901'
+  - '1848'
+  question: What year is on the flag of the US state Wisconsin?
+- correct_answer: '4'
+  options:
+  - '3'
+  - '1'
+  - '6'
+  - '4'
+  question: How many countries border Kyrgyzstan?
+- correct_answer: 'Lake Superior '
+  options:
+  - Caspian Sea
+  - Lake Michigan
+  - Lake Huron
+  - 'Lake Superior '
+  question: Which is the largest freshwater lake in the world?
+- correct_answer: Rosemead, California
+  options:
+  - Sacramento, California
+  - Fresno, California
+  - San Diego, California
+  - Rosemead, California
+  question: Where is the fast food chain "Panda Express" headquartered?
+- correct_answer: Anglesey
+  options:
+  - Barry
+  - Bardsey
+  - Caldey
+  - Anglesey
+  question: Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch
+    is located on which Welsh island?
+- correct_answer: 0.44km^2
+  options:
+  - 0.10km^2
+  - 0.86km^2
+  - 12.00km^2
+  - 0.44km^2
+  question: What is the area of Vatican City?
+- correct_answer: Austria
+  options:
+  - Germany
+  - Switzerland
+  - Czech Republic
+  - Austria
+  question: Fucking is a village in which country?
+- correct_answer: Indonesia
+  options:
+  - Saudi Arabia
+  - Iran
+  - Sudan
+  - Indonesia
+  question: What is the most populous Muslim-majority nation in 2010?
+- correct_answer: Schweizerische Bundesbahnen
+  options:
+  - Schweizerische Nationalbahnen
+  - Bundesbahnen der Schweiz
+  - Schweizerische Staatsbahnen
+  - Schweizerische Bundesbahnen
+  question: What is the official German name of the Swiss Federal Railways?
+- correct_answer: Suomi
+  options:
+  - Eesti
+  - Magyarorsz&aacute;g
+  - Sverige
+  - Suomi
+  question: What is the Finnish word for "Finland"?
+- correct_answer: Niagara Falls
+  options:
+  - Whistler, British Columbia
+  - Disney World
+  - Yosemite National Park
+  - Niagara Falls
+  question: What North American tourist attraction is served by the "Maid of the Mist"
+    tour company?
+- correct_answer: Canadian Shield
+  options:
+  - Rocky Mountains
+  - Appalachian Mountains
+  - Himalayas
+  - Canadian Shield
+  question: What is the name of rocky region that spans most of eastern Canada?
+- correct_answer: Grand Banks
+  options:
+  - Great Barrier Reef
+  - Mariana Trench
+  - Hudson Bay
+  - Grand Banks
+  question: What is the name of the formerly rich fishing grounds off the island of
+    Newfoundland, Canada?
+- correct_answer: December 6th
+  options:
+  - January 2nd
+  - November 12th
+  - February 8th
+  - December 6th
+  question: When does Finland celebrate their independence day?
+- correct_answer: Amsterdam
+  options:
+  - Rio de Janero
+  - Toronto
+  - Hong Kong
+  - Amsterdam
+  question: 'Which of these cities has a 4&deg; East longitude. '
+- correct_answer: India
+  options:
+  - Vietnam
+  - Thailand
+  - Indonesia
+  - India
+  question: The Andaman and Nicobar Islands in South East Asia are controlled by which
+    country?
+- correct_answer: Port Louis
+  options:
+  - Port Moresby
+  - Port Vila
+  - Port-au-Prince
+  - Port Louis
+  question: What is the capital of Mauritius?
+- correct_answer: Estonia
+  options:
+  - Finland
+  - Sweden
+  - Poland
+  - Estonia
+  question: In which country is Tallinn located?
+- correct_answer: Abruzzi Spur
+  options:
+  - Magic Line
+  - Cesen Route
+  - Polish Line
+  - Abruzzi Spur
+  question: What is the most common climbing route for the second highest mountain
+    in the world, K2?
+- correct_answer: Dead Sea
+  options:
+  - Aral Sea
+  - Caspian Sea
+  - Salton Sea
+  - Dead Sea
+  question: Into which basin does the Jordan River flow into?
+- correct_answer: Crown
+  options:
+  - Bird
+  - Sickle
+  - Tree
+  - Crown
+  question: The emblem on the flag of the Republic of Tajikistan features a sunrise
+    over mountains below what symbol?
+- correct_answer: Indonesia
+  options:
+  - Chile
+  - New Zealand
+  - Fiji
+  - Indonesia
+  question: The Maluku islands (informally known as the Spice Islands) belong to which
+    country?
+- correct_answer: National Baseball Hall of Fame
+  options:
+  - Metropolitan Museum of Art
+  - National Toy Hall of Fame
+  - Museum of Modern Art
+  - National Baseball Hall of Fame
+  question: What national museum will you find in Cooperstown, New York?
+- correct_answer: North Korea
+  options:
+  - South Korea
+  - Japan
+  - China
+  - North Korea
+  question: Which country is the Taedong River in?
+- correct_answer: Madison
+  options:
+  - Milwaukee
+  - Wisconsin Dells
+  - Green Bay
+  - Madison
+  question: What is the capital of Wisconsin, USA?
+- correct_answer: Atlantic Plate
+  options:
+  - North American Plate
+  - Eurasian Plate
+  - Nazca Plate
+  - Atlantic Plate
+  question: Which of these is NOT a real tectonic plate?
+- correct_answer: Egypt and Sudan
+  options:
+  - Israel and Jordan
+  - Chad and Libya
+  - Iraq and Saudi Arabia
+  - Egypt and Sudan
+  question: Bir Tawil, an uninhabited track of land claimed by no country, is located
+    along the border of which two countries?
+- correct_answer: Guyana
+  options:
+  - Senegal
+  - Liberia
+  - Somalia
+  - Guyana
+  question: Which is not a country in Africa?
+medium:
+- correct_answer: Nepal
+  options:
+  - Panama
+  - Angola
+  - Egypt
+  - Nepal
+  question: What is the only country in the world with a flag that doesn't have four
+    right angles?
+- correct_answer: Bern
+  options:
+  - Z&uuml;rich
+  - Frankfurt
+  - Wien
+  - Bern
+  question: Which city is the capital of Switzerland?
+- correct_answer: Ankara
+  options:
+  - Istanbul
+  - Izmir
+  - Bursa
+  - Ankara
+  question: What is the name of the capital of Turkey?
+- correct_answer: Altaic
+  options:
+  - Sino-Tibetan
+  - Dravidian
+  - Indo-European
+  - Altaic
+  question: Which of the following language families is the most controversial amongst
+    modern linguists?
+- correct_answer: Murcia
+  options:
+  - Asturias
+  - Navarre
+  - Le&oacute;n
+  - Murcia
+  question: 'The following Spanish provinces are located in the northern area of Spain
+    except:'
+- correct_answer: Sweden
+  options:
+  - Denmark
+  - Norway
+  - Germany
+  - Sweden
+  question: The land of Gotland is located in which European country?
+- correct_answer: Pakistan
+  options:
+  - Iran
+  - Turkey
+  - Azerbaijan
+  - Pakistan
+  question: Which of the following countries does NOT recognize Armenia as an independent
+    country?
+- correct_answer: Germany
+  options:
+  - Austria
+  - Canada
+  - Sweden
+  - Germany
+  question: Which of the following countries banned the use of personal genetic ancestry
+    tests?
+- correct_answer: North Atlantic Ocean, between Florida and Puerto Rico
+  options:
+  - North Pacific Ocean, between Japan and the USA
+  - In the Caribbean Sea
+  - South Pacific Ocean, far off Chile
+  - North Atlantic Ocean, between Florida and Puerto Rico
+  question: Where is the area commonly known as the Bermuda Triangle?
+- correct_answer: Java
+  options:
+  - Luzon
+  - Mindanao
+  - Palawan
+  - Java
+  question: Which of these is NOT an island that is part of the Philippines?
+- correct_answer: Carson City
+  options:
+  - Las Vegas
+  - Henderson
+  - Reno
+  - Carson City
+  question: What is the capital of the US state Nevada?
+- correct_answer: Olympia
+  options:
+  - Washington D.C.
+  - Seattle
+  - Yukon
+  - Olympia
+  question: What is the capital of the State of Washington, United States?
+- correct_answer: The 1936 Olympics
+  options:
+  - Coronation of Prince Johann I Joseph in 1805
+  - Charles VI's decree in 1719
+  - Signing of the 1862 Constitution of Liechtenstein
+  - The 1936 Olympics
+  question: What event led to Liechenstein adding a crown to its flag?
+- correct_answer: Lake Victoria
+  options:
+  - Lake Tanganyika
+  - Lake Malawi
+  - Lake Turkana
+  - Lake Victoria
+  question: What is the largest lake in the African continent?
+- correct_answer: '5'
+  options:
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  question: How many countries does Spain have a land border with?
+- correct_answer: Andorra
+  options:
+  - Liechtenstein
+  - Monaco
+  - San Marino
+  - Andorra
+  question: What tiny principality lies between Spain and France?
+- correct_answer: Dzongkha
+  options:
+  - Ladakhi
+  - Karen
+  - Groma
+  - Dzongkha
+  question: What is the official language of Bhutan?
+- correct_answer: South Africa
+  options:
+  - Somalia
+  - China
+  - United Kingdom
+  - South Africa
+  question: Which country has three capital cities?
+- correct_answer: Suriname
+  options:
+  - Brazil
+  - Uruguay
+  - Chile
+  - Suriname
+  question: What is the smallest country in South America by area?
+- correct_answer: Prince Edward Island
+  options:
+  - Saskachewan
+  - Northwest Terrirories
+  - Ontario
+  - Prince Edward Island
+  question: Which Canadian province has Charlottetown as its capital?
+- correct_answer: Victoria
+  options:
+  - Vancouver
+  - Hope
+  - Kelowna
+  - Victoria
+  question: What is the capital of British Columbia, Canada?
+- correct_answer: Victoria
+  options:
+  - Luanda
+  - N'Djamena
+  - Tripoli
+  - Victoria
+  question: What is the capital of Seychelles?
+- correct_answer: Anatolia
+  options:
+  - Ismuth of Ottoma
+  - Ottoma
+  - Ismuth of Anatolia
+  - Anatolia
+  question: The land mass of modern day Turkey is called what?
+- correct_answer: '11'
+  options:
+  - '6'
+  - '24'
+  - '16'
+  - '11'
+  question: How many timezones does Russia have?
+- correct_answer: '103'
+  options:
+  - '10'
+  - '59'
+  - '79'
+  - '103'
+  question: In the 2016 Global Peace Index poll, out of 163 countries, what was the
+    United States of America ranked?
+- correct_answer: Kashmir
+  options:
+  - Andorra
+  - Gibraltar
+  - Quin
+  - Kashmir
+  question: What is the region conjoining Pakistan, India, and China with unknown
+    leadership called?
+- correct_answer: Atlanta, Georgia USA
+  options:
+  - London, England
+  - Chicago,Illinois ISA
+  - Tokyo,Japan
+  - Atlanta, Georgia USA
+  question: What city  has the busiest airport in the world?
+- correct_answer: Wellington
+  options:
+  - Auckland
+  - Christchurch
+  - Melbourne
+  - Wellington
+  question: What is the capital city of New Zealand?
+- correct_answer: Africa
+  options:
+  - Asia
+  - South America
+  - Europe
+  - Africa
+  question: What continent is the country Lesotho in?
+- correct_answer: Vilnius
+  options:
+  - Tallinn
+  - Helsinki
+  - Riga
+  - Vilnius
+  question: What is the capital of Lithuania?
+- correct_answer: Sydney
+  options:
+  - Cairo
+  - Moscow
+  - Beijing
+  - Sydney
+  question: Which of the following is NOT a capital city?
+- correct_answer: '3'
+  options:
+  - '4'
+  - '2'
+  - '5'
+  - '3'
+  question: How many countries share a land border with Luxembourg?
+- correct_answer: Hampshire
+  options:
+  - Oxfordshire
+  - Buckinghamshire
+  - Surrey
+  - Hampshire
+  question: In which English county is the city of Portsmouth?
+- correct_answer: Norfolk
+  options:
+  - Suffolk
+  - Essex
+  - Cambridgeshire
+  - Norfolk
+  question: Which English county will you find the University of East Anglia?
+- correct_answer: Michigan
+  options:
+  - Pennsylvania
+  - Kentucky
+  - Virginia
+  - Michigan
+  question: Frankenmuth, a US city nicknamed "Little Bavaria", is located in what
+    state?
+- correct_answer: '11'
+  options:
+  - '8'
+  - '5'
+  - '2'
+  - '11'
+  question: How many time zones are in Russia?
+- correct_answer: Peru and Bolivia
+  options:
+  - Kenya and Uganda
+  - Mexico and the United States
+  - India and Bangladesh
+  - Peru and Bolivia
+  question: Lake Titicaca is located between which two nations?
+- correct_answer: Shikoku
+  options:
+  - Iki
+  - Odaiba
+  - Okinawa
+  - Shikoku
+  question: Which of these Japanese islands is the largest by area?
+- correct_answer: Niue
+  options:
+  - Tuvalu
+  - South Sudan
+  - Montenegro
+  - Niue
+  question: Which of these countries is not a United Nations member state?
+- correct_answer: Kaliningrad
+  options:
+  - Kazan
+  - Kursk
+  - Krasnodar
+  - Kaliningrad
+  question: The formerly East-Prussian city of K&ouml;nigsberg is known as which Russian
+    City today?
