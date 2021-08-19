@@ -17,6 +17,7 @@ from utils import (
     fetch_questions_local
 )
 
+# counter for the quiz (30 seconds)
 counter = 30
 
 class TriviaApp(QWidget):
