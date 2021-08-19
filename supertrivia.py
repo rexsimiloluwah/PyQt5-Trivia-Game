@@ -194,6 +194,7 @@ class TriviaApp(QWidget):
         self.selectedDifficulty = self.difficulties[x].lower()
 
     def startQuiz(self):
+        self.update_time_counter()
         self.questions = fetch_questions_local(
             self.selectedCategory,
             self.amount,
@@ -289,6 +290,8 @@ class TriviaApp(QWidget):
         self.timer = QtCore.QTimer()
         self.timer.timeout.connect(self.lapse)
         self.timer.start(1000)
+        # Dynamic modification of text 
+        #QtCore.QTimer.singleShot(25000, lambda: self.timeCount.setStyleSheet('color: red;'+'font-weight: bold;'+'font-size: 18px;'))
 
     def lapse(self):
         global counter
@@ -328,6 +331,7 @@ class TriviaApp(QWidget):
             self.endGameFrame()
 
     def update_time_counter(self):
+        #self.timeCount.setStyleSheet('color: black;'+'font-weight: normal;'+'font-size: 18px;')
         global counter 
         counter = 30
 
@@ -363,6 +367,7 @@ class TriviaApp(QWidget):
 
     def endGameFrame(self):
         """ The layout for the end game frame """
+        self.update_time_counter()
         header = QLabel("Your Score")
         header.setStyleSheet(
             "font-size: 32px;"
