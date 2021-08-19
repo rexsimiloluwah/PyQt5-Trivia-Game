@@ -17,6 +17,8 @@ from utils import (
     fetch_questions_local
 )
 
+counter = 30
+
 class TriviaApp(QWidget):
     def __init__(self, width=600, height=500):
         super().__init__()
@@ -245,12 +247,12 @@ class TriviaApp(QWidget):
             'font-size: 18px;'
         ) 
 
-        timeCount = QLabel()
-        timeCount.setMaximumHeight(30)
-        timeCount.setText(f"00:{str(self.timeSeconds)}")
-        timeCount.setAlignment(QtCore.Qt.AlignCenter)
-        timeCount.setWordWrap(True)
-        timeCount.setStyleSheet(
+        global counter
+        self.timeCount = QLabel()
+        self.timeCount.setMaximumHeight(30)
+        self.timeCount.setAlignment(QtCore.Qt.AlignCenter)
+        self.timeCount.setWordWrap(True)
+        self.timeCount.setStyleSheet(
             'font-size: 15px;'+
             'padding: 0px;'+
             'font-family: Orbitron;'
@@ -266,7 +268,7 @@ class TriviaApp(QWidget):
 
         self.widgets['questionCount'].append(questionCount)
         self.widgets['scoreCount'].append(scoreCount)
-        self.widgets['timeCount'].append(timeCount)
+        self.widgets['timeCount'].append(self.timeCount)
         self.widgets['question'].append(question)
         self.widgets['optionA'].append(optionA)
         self.widgets['optionB'].append(optionB)
@@ -282,6 +284,20 @@ class TriviaApp(QWidget):
         self.grid.addWidget(self.widgets['optionC'][-1], 4, 0)
         self.grid.addWidget(self.widgets['optionD'][-1], 4, 1)
 
+        ## Timer 
+        self.timer = QtCore.QTimer()
+        self.timer.timeout.connect(self.lapse)
+        self.timer.start(1000)
+
+    def lapse(self):
+        global counter
+        self.timeCount.setText(f"00:{str(counter)}")
+        if counter== 0:
+            self.clear_widgets()
+            self.endGameFrame()
+            counter = 30
+
+        counter -= 1
 
     def create_option_button(self, text):
         button = QPushButton()
@@ -310,9 +326,14 @@ class TriviaApp(QWidget):
             self.clear_widgets()
             self.endGameFrame()
 
+    def update_time_counter(self):
+        global counter 
+        counter = 30
+
     def update_question(self):
         """ Update question """
         self.score += self.SCORE_PER_QUESTION
+        self.update_time_counter()
         self.widgets["scoreCount"][-1].setText(f"{self.score}/{len(self.questions)*self.SCORE_PER_QUESTION}")
         self.index+= 1
         self.widgets["questionCount"][-1].setText(f"{self.index+1}/{len(self.questions)}")
